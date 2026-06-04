@@ -1,0 +1,4057 @@
+[
+    {
+        "id":  "copo-comum-tampa-473ml",
+        "slug":  "copo-comum-tampa-473ml",
+        "nome":  "COPO COMUM COM TAMPA 473ML",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Copos TÃ©rmicos",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  34.90,
+                           "faixa20":  32.90,
+                           "faixa30a40":  29.90,
+                           "faixa50":  27.90,
+                           "faixa60a80":  25.90,
+                           "faixa100":  24.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-700ml",
+        "slug":  "caneca-700ml",
+        "nome":  "CANECA 700ML",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Canecas TÃ©rmicas",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  54.90,
+                           "faixa6a10":  49.90,
+                           "faixa20":  47.90,
+                           "faixa30a40":  45.90,
+                           "faixa50":  43.90,
+                           "faixa60a80":  41.90,
+                           "faixa100":  39.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   },
+        "galeria":  [
+                        "/products/copo-whisky-preto-garrafa.jpg"
+                    ],
+        "imagem":  "/products/copo-whisky-preto-garrafa.jpg"
+    },
+    {
+        "id":  "copo-cuia-alca-350ml",
+        "slug":  "copo-cuia-alca-350ml",
+        "nome":  "COPO CUIA COM ALÃ‡A 350ML",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Copos TÃ©rmicos",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  44.90,
+                           "faixa6a10":  39.90,
+                           "faixa20":  37.90,
+                           "faixa30a40":  34.90,
+                           "faixa50":  31.90,
+                           "faixa60a80":  29.90,
+                           "faixa100":  26.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-cuia-tampa-350ml",
+        "slug":  "copo-cuia-tampa-350ml",
+        "nome":  "COPO CUIA COM TAMPA 350ML",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Copos TÃ©rmicos",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  49.90,
+                           "faixa6a10":  44.90,
+                           "faixa20":  42.90,
+                           "faixa30a40":  39.90,
+                           "faixa50":  36.90,
+                           "faixa60a80":  34.90,
+                           "faixa100":  34.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-flip-tampa-alca-900ml",
+        "slug":  "copo-flip-tampa-alca-900ml",
+        "nome":  "COPO FLIP COM TAMPA E ALÃ‡A 900ML",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Copos TÃ©rmicos",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  69.90,
+                           "faixa6a10":  66.90,
+                           "faixa20":  64.90,
+                           "faixa30a40":  61.90,
+                           "faixa50":  59.90,
+                           "faixa60a80":  56.90,
+                           "faixa100":  54.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-mamadeira-termico-infantil-220ml-baby",
+        "slug":  "copo-mamadeira-termico-infantil-220ml-baby",
+        "nome":  "COPO MAMADEIRA TERMICO INFANTIL 220ML BABY",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Copos TÃ©rmicos Infantis",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  59.90,
+                           "faixa6a10":  57.90,
+                           "faixa20":  54.90,
+                           "faixa30a40":  52.90,
+                           "faixa50":  49.90,
+                           "faixa60a80":  46.90,
+                           "faixa100":  44.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-mini-big-410ml",
+        "slug":  "copo-mini-big-410ml",
+        "nome":  "COPO MINI BIG 410ML",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Copos TÃ©rmicos",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  79.90,
+                           "faixa6a10":  74.90,
+                           "faixa20":  69.90,
+                           "faixa30a40":  67.90,
+                           "faixa50":  64.90,
+                           "faixa60a80":  62.90,
+                           "faixa100":  59.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-porta-long-drink-tampa",
+        "slug":  "copo-porta-long-drink-tampa",
+        "nome":  "COPO PORTA LONG DRINK COM TAMPA",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Copos TÃ©rmicos",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  59.90,
+                           "faixa6a10":  56.90,
+                           "faixa20":  54.90,
+                           "faixa30a40":  52.90,
+                           "faixa50":  49.90,
+                           "faixa60a80":  47.90,
+                           "faixa100":  44.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-virginia-big-1200ml",
+        "slug":  "copo-virginia-big-1200ml",
+        "nome":  "COPO VIRGINIA/BIG 1200ML",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Copos TÃ©rmicos",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  89.90,
+                           "faixa6a10":  84.90,
+                           "faixa20":  79.90,
+                           "faixa30a40":  77.90,
+                           "faixa50":  74.90,
+                           "faixa60a80":  72.90,
+                           "faixa100":  69.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-800ml-adventure",
+        "slug":  "garrafa-800ml-adventure",
+        "nome":  "GARRAFA 800ML ADVENTURE",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Garrafas TÃ©rmicas",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  69.90,
+                           "faixa6a10":  64.90,
+                           "faixa20":  61.90,
+                           "faixa30a40":  59.90,
+                           "faixa50":  54.90,
+                           "faixa60a80":  52.90,
+                           "faixa100":  49.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-500ml-tampa-digital",
+        "slug":  "garrafa-500ml-tampa-digital",
+        "nome":  "GARRAFA 500ML TAMPA DIGITAL",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Garrafas TÃ©rmicas",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  49.90,
+                           "faixa6a10":  44.90,
+                           "faixa20":  49.90,
+                           "faixa30a40":  37.90,
+                           "faixa50":  34.90,
+                           "faixa60a80":  32.90,
+                           "faixa100":  29.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-700ml-mosquetao",
+        "slug":  "garrafa-700ml-mosquetao",
+        "nome":  "GARRAFA 700ML MOSQUETAO",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Garrafas TÃ©rmicas",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  69.90,
+                           "faixa6a10":  64.90,
+                           "faixa20":  61.90,
+                           "faixa30a40":  59.90,
+                           "faixa50":  54.90,
+                           "faixa60a80":  52.90,
+                           "faixa100":  49.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-flip-straw-650ml",
+        "slug":  "garrafa-flip-straw-650ml",
+        "nome":  "GARRAFA FLIP STRAW 650ML",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Garrafas TÃ©rmicas",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  69.90,
+                           "faixa6a10":  64.90,
+                           "faixa20":  61.90,
+                           "faixa30a40":  59.90,
+                           "faixa50":  54.90,
+                           "faixa60a80":  52.90,
+                           "faixa100":  49.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-termica-500ml-branca-prata-jkb",
+        "slug":  "garrafa-termica-500ml-branca-prata-jkb",
+        "nome":  "GARRAFA TERMICA 500ML BRANCA E PRATA JKB",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Garrafas TÃ©rmicas",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  69.90,
+                           "faixa6a10":  64.90,
+                           "faixa20":  61.90,
+                           "faixa30a40":  59.90,
+                           "faixa50":  54.90,
+                           "faixa60a80":  52.90,
+                           "faixa100":  46.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-termica-750ml-branca-prata-jkb",
+        "slug":  "garrafa-termica-750ml-branca-prata-jkb",
+        "nome":  "GARRAFA TERMICA 750ML BRANCA E PRATA JKB",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Garrafas TÃ©rmicas",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  74.90,
+                           "faixa6a10":  69.90,
+                           "faixa20":  66.90,
+                           "faixa30a40":  64.90,
+                           "faixa50":  59.90,
+                           "faixa60a80":  54.90,
+                           "faixa100":  49.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-termica-infantil-350ml-alca-ajuste-rosa-bb-isa",
+        "slug":  "garrafa-termica-infantil-350ml-alca-ajuste-rosa-bb-isa",
+        "nome":  "GARRAFA TERMICA INFANTIL 350ML C ALÃ‡A AJUSTE ROSA BB ISA",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Garrafas TÃ©rmicas Infantis",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  59.90,
+                           "faixa6a10":  56.90,
+                           "faixa20":  54.90,
+                           "faixa30a40":  52.90,
+                           "faixa50":  49.90,
+                           "faixa60a80":  47.90,
+                           "faixa100":  44.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-termica-infantil-350ml-alca-tampa-bolinha",
+        "slug":  "garrafa-termica-infantil-350ml-alca-tampa-bolinha",
+        "nome":  "GARRAFA TERMICA INFANTIL 350ML C ALÃ‡A TAMPA BOLINHA",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Garrafas TÃ©rmicas Infantis",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  59.90,
+                           "faixa6a10":  56.90,
+                           "faixa20":  54.90,
+                           "faixa30a40":  52.90,
+                           "faixa50":  49.90,
+                           "faixa60a80":  47.90,
+                           "faixa100":  44.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-termica-infantil-350ml-click-bloco-retratil",
+        "slug":  "garrafa-termica-infantil-350ml-click-bloco-retratil",
+        "nome":  "GARRAFA TERMICA INFANTIL 350ML CLICK BLOCO RETRÃTIL",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Garrafas TÃ©rmicas Infantis",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  59.90,
+                           "faixa6a10":  56.90,
+                           "faixa20":  54.90,
+                           "faixa30a40":  52.90,
+                           "faixa50":  49.90,
+                           "faixa60a80":  47.90,
+                           "faixa100":  44.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-termica-infantil-400ml-pra-laser",
+        "slug":  "garrafa-termica-infantil-400ml-pra-laser",
+        "nome":  "GARRAFA TERMICA INFANTIL 400ML PRA LASER",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Garrafas TÃ©rmicas Infantis",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  59.90,
+                           "faixa6a10":  56.90,
+                           "faixa20":  54.90,
+                           "faixa30a40":  52.90,
+                           "faixa50":  49.90,
+                           "faixa60a80":  47.90,
+                           "faixa100":  44.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-termica-infantil-500ml-alca-flip",
+        "slug":  "garrafa-termica-infantil-500ml-alca-flip",
+        "nome":  "GARRAFA TERMICA INFANTIL 500ML TIPO ALÃ‡A FLIP",
+        "categoriaMacro":  "termicos",
+        "categoriaDisplay":  "TÃ©rmicos",
+        "subcategoria":  "Garrafas TÃ©rmicas Infantis",
+        "material":  "termico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  59.90,
+                           "faixa6a10":  56.90,
+                           "faixa20":  54.90,
+                           "faixa30a40":  52.90,
+                           "faixa50":  49.90,
+                           "faixa60a80":  47.90,
+                           "faixa100":  44.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-long-drink-330ml",
+        "slug":  "copo-long-drink-330ml",
+        "nome":  "COPO LONG DRINK 330ML",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  1.00,
+                           "faixa100":  0.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   },
+        "destaque":  true,
+        "galeria":  [
+                        "/products/copo-long-drink-330ml-1.jpg",
+                        "/products/copo-long-drink-330ml-2.jpg",
+                        "/products/copo-long-drink-330ml-3.jpg",
+                        "/products/copo-long-drink-330ml-4.jpg",
+                        "/products/copo-long-drink-330ml-5.jpg",
+                        "/products/copo-long-drink-330ml-6.jpg",
+                        "/products/copo-long-drink-330ml-7.jpg",
+                        "/products/copo-long-drink-330ml-8.jpg",
+                        "/products/copo-long-drink-330ml-9.jpg",
+                        "/products/copo-long-drink-330ml-10.jpg",
+                        "/products/copo-long-drink-330ml-11.jpg",
+                        "/products/copo-long-drink-330ml-12.jpg",
+                        "/products/copo-long-drink-330ml-13.jpg",
+                        "/products/copo-long-drink-330ml-14.jpg",
+                        "/products/copo-long-drink-330ml-15.jpg",
+                        "/products/copo-long-drink-330ml-16.jpg",
+                        "/products/copo-long-drink-330ml-17.jpg",
+                        "/products/copo-long-drink-330ml-18.jpg",
+                        "/products/copo-long-drink-330ml-19.jpg",
+                        "/products/copo-long-drink-330ml-20.jpg",
+                        "/products/copo-long-drink-330ml-21.jpg",
+                        "/products/copo-long-drink-330ml-22.jpg",
+                        "/products/copo-long-drink-330ml-23.jpg"
+                    ],
+        "imagem":  "/products/copo-long-drink-330ml-1.jpg"
+    },
+    {
+        "id":  "copo-long-drink-metalizado",
+        "slug":  "copo-long-drink-metalizado",
+        "nome":  "COPO LONG DRINK - METALIZADO",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  25.00,
+                           "faixa1a5":  15.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  3.00,
+                           "faixa50":  5.00,
+                           "faixa100":  10.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   },
+        "galeria":  [
+                        "/products/copo-long-drink-metalizado-1.jpg",
+                        "/products/copo-long-drink-metalizado-2.jpg",
+                        "/products/copo-long-drink-metalizado-3.jpg",
+                        "/products/copo-long-drink-metalizado-4.jpg",
+                        "/products/copo-long-drink-metalizado-5.jpg",
+                        "/products/copo-long-drink-metalizado-6.jpg",
+                        "/products/copo-long-drink-metalizado-7.jpg",
+                        "/products/copo-long-drink-metalizado-8.jpg",
+                        "/products/copo-long-drink-metalizado-9.jpg",
+                        "/products/copo-long-drink-metalizado-10.jpg",
+                        "/products/copo-long-drink-metalizado-11.jpg",
+                        "/products/copo-long-drink-metalizado-12.jpg",
+                        "/products/copo-long-drink-metalizado-13.jpg"
+                    ],
+        "imagem":  "/products/copo-long-drink-metalizado-1.jpg"
+    },
+    {
+        "id":  "canecas-450ml",
+        "slug":  "canecas-450ml",
+        "nome":  "CANECAS 450ML",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Canecas",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  10.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   },
+        "galeria":  [
+                        "/products/canecas-450ml-1.jpg",
+                        "/products/canecas-450ml-2.jpg",
+                        "/products/canecas-450ml-3.jpg",
+                        "/products/canecas-450ml-4.jpg",
+                        "/products/canecas-450ml-5.jpg",
+                        "/products/canecas-450ml-6.jpg",
+                        "/products/canecas-450ml-7.jpg"
+                    ],
+        "imagem":  "/products/canecas-450ml-1.jpg"
+    },
+    {
+        "id":  "canecas-500ml-metalizado",
+        "slug":  "canecas-500ml-metalizado",
+        "nome":  "CANECAS 500ML - METALIZADO",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Canecas",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  25.00,
+                           "faixa1a5":  15.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  3.00,
+                           "faixa50":  5.00,
+                           "faixa100":  25.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-slim-330ml",
+        "slug":  "caneca-slim-330ml",
+        "nome":  "CANECA SLIM 330ML",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Canecas",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   },
+        "galeria":  [
+                        "/products/caneca-slim-330ml-1.jpg",
+                        "/products/caneca-slim-330ml-2.jpg",
+                        "/products/caneca-slim-330ml-3.jpg"
+                    ],
+        "imagem":  "/products/caneca-slim-330ml-1.jpg"
+    },
+    {
+        "id":  "copo-twister-caldereta-350ml-400ml-550ml",
+        "slug":  "copo-twister-caldereta-350ml-400ml-550ml",
+        "nome":  "COPO TWISTER/CALDERETA 350ML 400 ML 550ML",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   },
+        "galeria":  [
+                        "/products/copo-twister-caldereta-350ml-400ml-550ml-1.jpg",
+                        "/products/copo-twister-caldereta-350ml-400ml-550ml-2.jpg",
+                        "/products/copo-twister-caldereta-350ml-400ml-550ml-3.jpg",
+                        "/products/copo-twister-caldereta-350ml-400ml-550ml-4.jpg",
+                        "/products/copo-twister-caldereta-350ml-400ml-550ml-5.jpg",
+                        "/products/copo-twister-caldereta-350ml-400ml-550ml-6.jpg",
+                        "/products/copo-twister-caldereta-350ml-400ml-550ml-7.jpg",
+                        "/products/copo-twister-caldereta-350ml-400ml-550ml-8.jpg",
+                        "/products/copo-twister-caldereta-350ml-400ml-550ml-9.jpg",
+                        "/products/copo-twister-caldereta-350ml-400ml-550ml-10.jpg"
+                    ],
+        "imagem":  "/products/copo-twister-caldereta-350ml-400ml-550ml-1.jpg"
+    },
+    {
+        "id":  "copo-twister-550ml-metalizado",
+        "slug":  "copo-twister-550ml-metalizado",
+        "nome":  "COPO TWISTER 550ML METALIZADO",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  25.00,
+                           "faixa1a5":  15.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  3.00,
+                           "faixa50":  5.00,
+                           "faixa100":  25.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   },
+        "galeria":  [
+                        "/products/copo-twister-550ml-metalizado-1.jpg",
+                        "/products/copo-twister-550ml-metalizado-2.jpg",
+                        "/products/copo-twister-550ml-metalizado-3.jpg",
+                        "/products/copo-twister-550ml-metalizado-4.jpg",
+                        "/products/copo-twister-550ml-metalizado-5.jpg"
+                    ],
+        "imagem":  "/products/copo-twister-550ml-metalizado-1.jpg"
+    },
+    {
+        "id":  "copo-twister-cald-350ml-400ml-550ml-tampa-canudo",
+        "slug":  "copo-twister-cald-350ml-400ml-550ml-tampa-canudo",
+        "nome":  "COPO TWISTER/CALD 350ML 400 ML 550ML C TAMPA E CANUDO",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   },
+        "galeria":  [
+                        "/products/copo-twister-cald-350ml-400ml-550ml-tampa-canudo-1.jpg",
+                        "/products/copo-twister-cald-350ml-400ml-550ml-tampa-canudo-2.jpg",
+                        "/products/copo-twister-cald-350ml-400ml-550ml-tampa-canudo-3.jpg",
+                        "/products/copo-twister-cald-350ml-400ml-550ml-tampa-canudo-4.jpg",
+                        "/products/copo-twister-cald-350ml-400ml-550ml-tampa-canudo-5.jpg",
+                        "/products/copo-twister-cald-350ml-400ml-550ml-tampa-canudo-6.jpg",
+                        "/products/copo-twister-cald-350ml-400ml-550ml-tampa-canudo-7.jpg"
+                    ],
+        "imagem":  "/products/copo-twister-cald-350ml-400ml-550ml-tampa-canudo-1.jpg"
+    },
+    {
+        "id":  "copo-twister-550ml-tampa-chantilly",
+        "slug":  "copo-twister-550ml-tampa-chantilly",
+        "nome":  "COPO TWISTER 550ML C TAMPA CHANTILLY (HOSA BB 4,49)",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  10.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-eco-400ml-650ml",
+        "slug":  "copo-eco-400ml-650ml",
+        "nome":  "COPO ECO 400ML E 650ML",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-eco-400-650ml-tampa-caudo-bucks",
+        "slug":  "copo-eco-400-650ml-tampa-caudo-bucks",
+        "nome":  "COPO ECO 400/650ML COM TAMPA E CAUDO OU BUCKS",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-eco-250-400-650ml-tampa-bucks",
+        "slug":  "copo-eco-250-400-650ml-tampa-bucks",
+        "nome":  "COPO ECO 250 400 E 650ML COM TAMPA BUCKS",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-eco-400ml-tampa",
+        "slug":  "copo-eco-400ml-tampa",
+        "nome":  "COPO ECO 400ML TAMPA",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-eco-600ml-tampa-shake",
+        "slug":  "copo-eco-600ml-tampa-shake",
+        "nome":  "COPO ECO 600ML TAMPA SHAKE",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  20.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "taca-champagne-180ml",
+        "slug":  "taca-champagne-180ml",
+        "nome":  "TACA CHAMPAGNE 180ML",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "TaÃ§as",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   },
+        "galeria":  [
+                        "/products/taca-champagne-180ml-1.jpg",
+                        "/products/taca-champagne-180ml-2.jpg",
+                        "/products/taca-champagne-180ml-3.jpg",
+                        "/products/taca-champagne-180ml-4.jpg",
+                        "/products/taca-champagne-180ml-5.jpg",
+                        "/products/taca-champagne-180ml-6.jpg",
+                        "/products/taca-champagne-180ml-7.jpg",
+                        "/products/taca-champagne-180ml-8.jpg"
+                    ],
+        "imagem":  "/products/taca-champagne-180ml-1.jpg"
+    },
+    {
+        "id":  "taca-licor-sobremesa-moquetao",
+        "slug":  "taca-licor-sobremesa-moquetao",
+        "nome":  "TACA LICOR/SOBREMESA/MOQUETAO",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "TaÃ§as",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "taca-vinho-350ml",
+        "slug":  "taca-vinho-350ml",
+        "nome":  "TACA VINHO 350ML",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "TaÃ§as",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   },
+        "galeria":  [
+                        "/products/taca-vinho-350ml-1.jpg",
+                        "/products/taca-vinho-350ml-2.jpg"
+                    ],
+        "imagem":  "/products/taca-vinho-350ml-1.jpg"
+    },
+    {
+        "id":  "taca-gin-580ml",
+        "slug":  "taca-gin-580ml",
+        "nome":  "TACA GIN 580ML",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "TaÃ§as",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   },
+        "galeria":  [
+                        "/products/taca-gin-580ml-1.jpg",
+                        "/products/taca-gin-580ml-2.jpg",
+                        "/products/taca-gin-580ml-3.jpg",
+                        "/products/taca-gin-580ml-4.jpg",
+                        "/products/taca-gin-580ml-5.jpg",
+                        "/products/taca-gin-580ml-6.jpg",
+                        "/products/taca-gin-580ml-7.jpg",
+                        "/products/taca-gin-580ml-8.jpg",
+                        "/products/taca-gin-580ml-9.jpg",
+                        "/products/taca-gin-580ml-10.jpg",
+                        "/products/taca-gin-580ml-11.jpg",
+                        "/products/taca-gin-580ml-12.jpg",
+                        "/products/taca-gin-580ml-13.jpg",
+                        "/products/taca-gin-580ml-14.jpg"
+                    ],
+        "imagem":  "/products/taca-gin-580ml-1.jpg"
+    },
+    {
+        "id":  "taca-gin-580ml-metalizado",
+        "slug":  "taca-gin-580ml-metalizado",
+        "nome":  "TACA GIN 580 ML METALIZADO",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "TaÃ§as",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  25.00,
+                           "faixa1a5":  15.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  3.00,
+                           "faixa50":  5.00,
+                           "faixa100":  25.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-agua-cor-basica",
+        "slug":  "garrafa-agua-cor-basica",
+        "nome":  "GARRAFA AGUA COR BASICA",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Garrafas",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-agua-metalizado",
+        "slug":  "garrafa-agua-metalizado",
+        "nome":  "GARRAFA AGUA METALIZADO",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Garrafas",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  25.00,
+                           "faixa1a5":  15.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  3.00,
+                           "faixa50":  5.00,
+                           "faixa100":  25.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafas-cetim-personalizado-brilho-4cm",
+        "slug":  "garrafas-cetim-personalizado-brilho-4cm",
+        "nome":  "GARRAFAS CETIM PERSONALIZADO BRILHO 4 CM",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Garrafas",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-aluminio-500-850ml-silk-frente-verso-cor-unica",
+        "slug":  "caneca-aluminio-500-850ml-silk-frente-verso-cor-unica",
+        "nome":  "CANECA ALUMINIO 500 E 850ML SILK FRENTE E VERSO COR UNICA",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Canecas",
+        "material":  "aluminio",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-aluminio-500-850ml-colorido-sempre",
+        "slug":  "caneca-aluminio-500-850ml-colorido-sempre",
+        "nome":  "CANECA ALUMINIO 500 E 850ML COLORIDO DE SEMPRE",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Canecas",
+        "material":  "aluminio",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-moscow-mule-180-300ml",
+        "slug":  "caneca-moscow-mule-180-300ml",
+        "nome":  "CANECA MOSCOW MULE 180 E 300ML",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Canecas",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "balde-gelo-unidade-eco-5lt",
+        "slug":  "balde-gelo-unidade-eco-5lt",
+        "nome":  "BALDE GELO UNIDADE ECO 5LT ( CHAMP 8LT + 5,00)",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Diversos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "squeeze-plastico-400-650ml",
+        "slug":  "squeeze-plastico-400-650ml",
+        "nome":  "SQUEEZE PLASTICO 400 OU 650ML",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Garrafas",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "placa-acrilica-10x15-pix-papel-foto-fundo",
+        "slug":  "placa-acrilica-10x15-pix-papel-foto-fundo",
+        "nome":  "PLACA ACRILICA 10X15 PIX COM PAPEL FOTO FUNDO",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Placas",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "kit-eco250-400-mochila-oxford-20x30-branca",
+        "slug":  "kit-eco250-400-mochila-oxford-20x30-branca",
+        "nome":  "KIT 1 ECO250 OU 400 + MOCHILA OXFORD 20X30 BRANCA",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Kits",
+        "material":  "misto",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "kit-balde-pipoca-2-twister-550-eco-bucks-eco-tampa",
+        "slug":  "kit-balde-pipoca-2-twister-550-eco-bucks-eco-tampa",
+        "nome":  "KIT BALDE PIPOCA + 2 TWISTER 550 OU ECO BUCKS OU ECO TAMPA",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Kits",
+        "material":  "misto",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-whisky-330ml",
+        "slug":  "copo-whisky-330ml",
+        "nome":  "COPO WHISKY 330ML",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  15.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  15.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   },
+        "galeria":  [
+                        "/products/copo-whisky-330ml-1.jpg",
+                        "/products/copo-whisky-330ml-2.jpg",
+                        "/products/copo-whisky-330ml-3.jpg",
+                        "/products/copo-whisky-330ml-4.jpg"
+                    ],
+        "imagem":  "/products/copo-whisky-330ml-1.jpg"
+    },
+    {
+        "id":  "copo-shot-50ml",
+        "slug":  "copo-shot-50ml",
+        "nome":  "COPO SHOT 50ML",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  10.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  10.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-brasileirinho-190ml",
+        "slug":  "copo-brasileirinho-190ml",
+        "nome":  "COPO BRASILEIRINHO 190ML BRASILEIRAO (450ML 1.00 A MAIS)",
+        "categoriaMacro":  "acrilicos",
+        "categoriaDisplay":  "AcrÃ­licos",
+        "subcategoria":  "Copos",
+        "material":  "acrilico",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1un":  10.00,
+                           "faixa1a5":  10.00,
+                           "faixa6a10":  5.00,
+                           "faixa20":  5.00,
+                           "faixa30a40":  2.00,
+                           "faixa50":  5.00,
+                           "faixa100":  10.00,
+                           "faixa300":  -0.30
+                       },
+        "regras":  {
+                       "permiteDegrade":  true,
+                       "permiteBorda":  true,
+                       "permiteTransferFrente":  true,
+                       "permiteTransferFrenteVerso":  true,
+                       "regraNomes":  "gratis_ate_10_depois_199",
+                       "elegivelDescontoVolume":  true,
+                       "linhaAcqua":  false
+                   },
+        "galeria":  [
+                        "/products/copo-brasileirinho-190ml-1.jpg",
+                        "/products/copo-brasileirinho-190ml-2.jpg",
+                        "/products/copo-brasileirinho-190ml-3.jpg",
+                        "/products/copo-brasileirinho-190ml-4.jpg",
+                        "/products/copo-brasileirinho-190ml-5.jpg"
+                    ],
+        "imagem":  "/products/copo-brasileirinho-190ml-1.jpg"
+    },
+    {
+        "id":  "caneca-porcelana-comum-branca",
+        "slug":  "caneca-porcelana-comum-branca",
+        "nome":  "CANECA PORCELANA COMUM BRANCA",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  34.90,
+                           "faixa6a10":  29.90,
+                           "faixa20":  26.90,
+                           "faixa30a40":  23.90,
+                           "faixa50":  21.90,
+                           "faixa60a80":  19.90,
+                           "faixa100":  17.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-180ml-branca-pires",
+        "slug":  "caneca-porcelana-180ml-branca-pires",
+        "nome":  "CANECA PORCELANA 180ML BRANCA C PIRES",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  44.90,
+                           "faixa6a10":  39.90,
+                           "faixa20":  36.90,
+                           "faixa30a40":  33.90,
+                           "faixa50":  31.90,
+                           "faixa60a80":  29.90,
+                           "faixa100":  27.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-150ml-branca",
+        "slug":  "caneca-porcelana-150ml-branca",
+        "nome":  "CANECA PORCELANA 150ML BRANCA",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  34.90,
+                           "faixa6a10":  29.90,
+                           "faixa20":  26.90,
+                           "faixa30a40":  23.90,
+                           "faixa50":  21.90,
+                           "faixa60a80":  19.90,
+                           "faixa100":  17.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-pires-150ml-preta",
+        "slug":  "caneca-porcelana-pires-150ml-preta",
+        "nome":  "CANECA PORCELANA PIRES 150ML PRETA",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  44.90,
+                           "faixa6a10":  39.90,
+                           "faixa20":  36.90,
+                           "faixa30a40":  33.90,
+                           "faixa50":  31.90,
+                           "faixa60a80":  29.90,
+                           "faixa100":  27.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-interna-love",
+        "slug":  "caneca-porcelana-interna-love",
+        "nome":  "CANECA PORCELANA INTERNA LOVE",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  34.90,
+                           "faixa20":  31.90,
+                           "faixa30a40":  28.90,
+                           "faixa50":  26.90,
+                           "faixa60a80":  24.90,
+                           "faixa100":  22.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-interna-happy-bhirthay",
+        "slug":  "caneca-porcelana-interna-happy-bhirthay",
+        "nome":  "CANECA PORCELANA INTERNA HAPPY BHIRTHAY",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  34.90,
+                           "faixa20":  31.90,
+                           "faixa30a40":  28.90,
+                           "faixa50":  26.90,
+                           "faixa60a80":  24.90,
+                           "faixa100":  22.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-taria-preta",
+        "slug":  "caneca-porcelana-taria-preta",
+        "nome":  "CANECA PORCELANA TARIA PRETA",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  34.90,
+                           "faixa20":  31.90,
+                           "faixa30a40":  28.90,
+                           "faixa50":  26.90,
+                           "faixa60a80":  24.90,
+                           "faixa100":  24.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-colher-metal-base-madeira",
+        "slug":  "caneca-porcelana-colher-metal-base-madeira",
+        "nome":  "CANECA PORCELANA COLHER METAL E BASE MADEIRA",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  49.90,
+                           "faixa6a10":  44.90,
+                           "faixa20":  41.90,
+                           "faixa30a40":  38.90,
+                           "faixa50":  36.90,
+                           "faixa60a80":  34.90,
+                           "faixa100":  32.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-magica-magica-glitter",
+        "slug":  "caneca-porcelana-magica-magica-glitter",
+        "nome":  "CANECA PORCELANA MAGICA E MAGICA GLITTER",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  34.90,
+                           "faixa20":  31.90,
+                           "faixa30a40":  28.90,
+                           "faixa50":  26.90,
+                           "faixa60a80":  24.90,
+                           "faixa100":  22.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-alca-base-redonda",
+        "slug":  "caneca-porcelana-alca-base-redonda",
+        "nome":  "CANECA PORCELANA ALCA E BASE REDONDA",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  38.90,
+                           "faixa6a10":  34.90,
+                           "faixa20":  31.90,
+                           "faixa30a40":  28.90,
+                           "faixa50":  26.90,
+                           "faixa60a80":  24.90,
+                           "faixa100":  24.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-coracao-alca-base-colorida",
+        "slug":  "caneca-porcelana-coracao-alca-base-colorida",
+        "nome":  "CANECA PORCELANA CORACAO ALCA E BASE COLORIDA",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  34.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  30.90,
+                           "faixa50":  28.90,
+                           "faixa60a80":  26.90,
+                           "faixa100":  24.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-colher-interna-colorida",
+        "slug":  "caneca-porcelana-colher-interna-colorida",
+        "nome":  "CANECA PORCELANA C COLHER INTERNA COLORIDA",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  41.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  30.90,
+                           "faixa50":  28.90,
+                           "faixa60a80":  26.90,
+                           "faixa100":  24.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-tampa-silicone",
+        "slug":  "caneca-porcelana-tampa-silicone",
+        "nome":  "CANECA PORCELANA TAMPA SILICONE",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  44.90,
+                           "faixa6a10":  39.90,
+                           "faixa20":  36.90,
+                           "faixa30a40":  33.90,
+                           "faixa50":  31.90,
+                           "faixa60a80":  29.90,
+                           "faixa100":  27.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-gliter",
+        "slug":  "caneca-porcelana-gliter",
+        "nome":  "CANECA PORCELANA GLITER",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  41.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  30.90,
+                           "faixa50":  29.90,
+                           "faixa60a80":  26.90,
+                           "faixa100":  25.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-base-gliter",
+        "slug":  "caneca-porcelana-base-gliter",
+        "nome":  "CANECA PORCELANA BASE GLITER",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  41.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  30.90,
+                           "faixa50":  28.90,
+                           "faixa60a80":  26.90,
+                           "faixa100":  25.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-metalizada",
+        "slug":  "caneca-porcelana-metalizada",
+        "nome":  "CANECA PORCELANA METALIZADA",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  41.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  30.90,
+                           "faixa50":  28.90,
+                           "faixa60a80":  26.90,
+                           "faixa100":  25.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-branca-alca-dourada",
+        "slug":  "caneca-porcelana-branca-alca-dourada",
+        "nome":  "CANECA PORCELANA BRANCA ALCA DOURADA",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  49.90,
+                           "faixa6a10":  44.90,
+                           "faixa20":  41.90,
+                           "faixa30a40":  38.90,
+                           "faixa50":  36.90,
+                           "faixa60a80":  34.90,
+                           "faixa100":  32.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-armada-dupla",
+        "slug":  "caneca-porcelana-armada-dupla",
+        "nome":  "CANECA PORCELANA ARMADA DUPLA",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  69.90,
+                           "faixa6a10":  64.90,
+                           "faixa20":  61.90,
+                           "faixa30a40":  58.90,
+                           "faixa50":  55.90,
+                           "faixa60a80":  50.90,
+                           "faixa100":  47.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-armada-quadrupla",
+        "slug":  "caneca-porcelana-armada-quadrupla",
+        "nome":  "CANECA PORCELANA ARMADA QUADRUPLA",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  119.90,
+                           "faixa6a10":  114.90,
+                           "faixa20":  111.90,
+                           "faixa30a40":  108.90,
+                           "faixa50":  99.90,
+                           "faixa60a80":  95.90,
+                           "faixa100":  90.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-dupla-coracao",
+        "slug":  "caneca-porcelana-dupla-coracao",
+        "nome":  "CANECA PORCELANA DUPLA CORACAO",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  59.90,
+                           "faixa6a10":  54.90,
+                           "faixa20":  51.90,
+                           "faixa30a40":  48.90,
+                           "faixa50":  46.90,
+                           "faixa60a80":  44.90,
+                           "faixa100":  42.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-porcelana-polimero-branca",
+        "slug":  "caneca-porcelana-polimero-branca",
+        "nome":  "CANECA PORCELANA POLIMERO BRANCA",
+        "categoriaMacro":  "porcelana",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Porcelana",
+        "material":  "porcelana",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  34.90,
+                           "faixa6a10":  29.90,
+                           "faixa20":  26.90,
+                           "faixa30a40":  23.90,
+                           "faixa50":  21.90,
+                           "faixa60a80":  19.90,
+                           "faixa100":  17.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-mason-vidro-incolor-jateada",
+        "slug":  "caneca-mason-vidro-incolor-jateada",
+        "nome":  "CANECA MASON VIDRO INCOLOR E JATEADA",
+        "categoriaMacro":  "porcelana_vidro",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Vidro",
+        "material":  "vidro",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  49.90,
+                           "faixa6a10":  44.90,
+                           "faixa20":  41.90,
+                           "faixa30a40":  38.90,
+                           "faixa50":  36.90,
+                           "faixa60a80":  34.90,
+                           "faixa100":  32.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-vidro-infusao-cha-dourada",
+        "slug":  "garrafa-vidro-infusao-cha-dourada",
+        "nome":  "GARRAFA VIDRO INFUSAO CHA DOURADA",
+        "categoriaMacro":  "porcelana_vidro",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Garrafas Vidro",
+        "material":  "vidro",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  49.90,
+                           "faixa6a10":  44.90,
+                           "faixa20":  41.90,
+                           "faixa30a40":  38.90,
+                           "faixa50":  36.90,
+                           "faixa60a80":  34.90,
+                           "faixa100":  32.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-vidro-incolor-450ml-850ml",
+        "slug":  "caneca-vidro-incolor-450ml-850ml",
+        "nome":  "CANECA VIDRO INCOLOR 450ML E 850ML",
+        "categoriaMacro":  "porcelana_vidro",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Vidro",
+        "material":  "vidro",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  44.90,
+                           "faixa6a10":  39.90,
+                           "faixa20":  36.90,
+                           "faixa30a40":  33.90,
+                           "faixa50":  31.90,
+                           "faixa60a80":  29.90,
+                           "faixa100":  27.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-vidro-jateado-branco-jateado-colorido-473ml",
+        "slug":  "caneca-vidro-jateado-branco-jateado-colorido-473ml",
+        "nome":  "CANECA VIDRO JATEADO BRANCO E JATEADO COLORIDO 473ML",
+        "categoriaMacro":  "porcelana_vidro",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Canecas Vidro",
+        "material":  "vidro",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  44.90,
+                           "faixa6a10":  39.90,
+                           "faixa20":  36.90,
+                           "faixa30a40":  33.90,
+                           "faixa50":  31.90,
+                           "faixa60a80":  29.90,
+                           "faixa100":  27.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "tulipa-vidro-incolor-jateado",
+        "slug":  "tulipa-vidro-incolor-jateado",
+        "nome":  "TULIPA VIDRO INCOLOR E JATEADO",
+        "categoriaMacro":  "porcelana_vidro",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "TaÃ§as Vidro",
+        "material":  "vidro",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  34.90,
+                           "faixa20":  31.90,
+                           "faixa30a40":  28.90,
+                           "faixa50":  26.90,
+                           "faixa60a80":  24.90,
+                           "faixa100":  22.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   },
+        "galeria":  [
+                        "/products/tulipa-vidro-incolor-jateado-1.jpg",
+                        "/products/tulipa-vidro-incolor-jateado-2.jpg",
+                        "/products/tulipa-vidro-incolor-jateado-3.jpg",
+                        "/products/tulipa-vidro-incolor-jateado-4.jpg",
+                        "/products/tulipa-vidro-incolor-jateado-5.jpg",
+                        "/products/tulipa-vidro-incolor-jateado-6.jpg",
+                        "/products/tulipa-vidro-incolor-jateado-7.jpg"
+                    ],
+        "imagem":  "/products/tulipa-vidro-incolor-jateado-1.jpg"
+    },
+    {
+        "id":  "taca-floripa-vidro-incolor-jateado",
+        "slug":  "taca-floripa-vidro-incolor-jateado",
+        "nome":  "TACA FLORIPA VIDRO INCOLOR E JATEADO",
+        "categoriaMacro":  "porcelana_vidro",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "TaÃ§as Vidro",
+        "material":  "vidro",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  35.00,
+                           "faixa6a10":  29.90,
+                           "faixa20":  26.90,
+                           "faixa30a40":  23.90,
+                           "faixa50":  21.90,
+                           "faixa60a80":  19.90,
+                           "faixa100":  17.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "taca-buffet-vidro-165ml",
+        "slug":  "taca-buffet-vidro-165ml",
+        "nome":  "TACA BUFFET VIDRO 165ML",
+        "categoriaMacro":  "porcelana_vidro",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "TaÃ§as Vidro",
+        "material":  "vidro",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  35.00,
+                           "faixa6a10":  29.90,
+                           "faixa20":  26.90,
+                           "faixa30a40":  23.90,
+                           "faixa50":  21.90,
+                           "faixa60a80":  19.90,
+                           "faixa100":  17.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-whisky-incolor-jateado",
+        "slug":  "copo-whisky-incolor-jateado",
+        "nome":  "COPO WHISKY INCOLOR E JATEADO",
+        "categoriaMacro":  "porcelana_vidro",
+        "categoriaDisplay":  "Porcelana e Vidro",
+        "subcategoria":  "Copos Vidro",
+        "material":  "vidro",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  35.00,
+                           "faixa6a10":  29.90,
+                           "faixa20":  26.90,
+                           "faixa30a40":  23.90,
+                           "faixa50":  21.90,
+                           "faixa60a80":  19.90,
+                           "faixa100":  17.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-plastica-foto-papel",
+        "slug":  "caneca-plastica-foto-papel",
+        "nome":  "CANECA PLASTICA FOTO PAPEL",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Canecas PlÃ¡stica",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  24.90,
+                           "faixa6a10":  19.90,
+                           "faixa20":  16.90,
+                           "faixa30a40":  13.90,
+                           "faixa50":  11.90,
+                           "faixa60a80":  9.90,
+                           "faixa100":  9.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "kit-caixa-mdf-completo-2-canecas-quadro-2-tercos",
+        "slug":  "kit-caixa-mdf-completo-2-canecas-quadro-2-tercos",
+        "nome":  "KIT CAIXA MDF COMPLETO COM 2 CANECAS/QUADRO/2 TERCOS",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Kits",
+        "material":  "misto",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  129.90,
+                           "faixa6a10":  114.90,
+                           "faixa20":  111.90,
+                           "faixa30a40":  108.90,
+                           "faixa50":  99.90,
+                           "faixa60a80":  95.90,
+                           "faixa100":  90.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "almofada-30x30-enchimento",
+        "slug":  "almofada-30x30-enchimento",
+        "nome":  "ALMOFADA 30X30 COM ENCHIMENTO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Almofadas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  30.90,
+                           "faixa50":  26.90,
+                           "faixa60a80":  21.90,
+                           "faixa100":  19.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "avental-preto-oxford",
+        "slug":  "avental-preto-oxford",
+        "nome":  "AVENTAL PRETO OXFORD",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Roupas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  44.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  30.90,
+                           "faixa50":  21.90,
+                           "faixa60a80":  21.90,
+                           "faixa100":  19.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "azulejo-15x15",
+        "slug":  "azulejo-15x15",
+        "nome":  "AZULEJO 15X15",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Azulejos",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  36.90,
+                           "faixa6a10":  33.90,
+                           "faixa20":  29.90,
+                           "faixa30a40":  27.90,
+                           "faixa50":  25.90,
+                           "faixa60a80":  23.90,
+                           "faixa100":  21.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "azulejo-20x20",
+        "slug":  "azulejo-20x20",
+        "nome":  "AZULEJO 20X20",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Azulejos",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  29.90,
+                           "faixa50":  27.90,
+                           "faixa60a80":  25.90,
+                           "faixa100":  23.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "azulejo-20x20-relogio",
+        "slug":  "azulejo-20x20-relogio",
+        "nome":  "AZULEJO 20X20 C RELOGIO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Azulejos",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  49.90,
+                           "faixa6a10":  46.90,
+                           "faixa20":  43.90,
+                           "faixa30a40":  39.90,
+                           "faixa50":  37.90,
+                           "faixa60a80":  35.90,
+                           "faixa100":  33.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "body-bebe-branco",
+        "slug":  "body-bebe-branco",
+        "nome":  "BODY BEBE BRANCO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Roupas BebÃª",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  31.90,
+                           "faixa50":  29.90,
+                           "faixa60a80":  27.90,
+                           "faixa100":  25.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "body-bebe-preto-colorido",
+        "slug":  "body-bebe-preto-colorido",
+        "nome":  "BODY BEBE PRETO OU COLORIDO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Roupas BebÃª",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  54.90,
+                           "faixa6a10":  49.90,
+                           "faixa20":  47.90,
+                           "faixa30a40":  44.90,
+                           "faixa50":  39.90,
+                           "faixa60a80":  37.90,
+                           "faixa100":  35.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "bone-personalizado",
+        "slug":  "bone-personalizado",
+        "nome":  "BONE PERSONALIZADO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "BonÃ©s",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  34.90,
+                           "faixa6a10":  31.90,
+                           "faixa20":  29.90,
+                           "faixa30a40":  24.90,
+                           "faixa50":  22.90,
+                           "faixa60a80":  21.90,
+                           "faixa100":  19.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caixa-mdf-kit",
+        "slug":  "caixa-mdf-kit",
+        "nome":  "CAIXA MDF PARA KIT",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Caixas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  29.90,
+                           "faixa6a10":  27.90,
+                           "faixa20":  25.90,
+                           "faixa30a40":  23.90,
+                           "faixa50":  19.90,
+                           "faixa60a80":  19.90,
+                           "faixa100":  18.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "camiseta-branca-poliester",
+        "slug":  "camiseta-branca-poliester",
+        "nome":  "CAMISETA BRANCA POLIESTER",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Camisetas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  31.90,
+                           "faixa50":  29.90,
+                           "faixa60a80":  27.90,
+                           "faixa100":  25.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "camiseta-preta-coloridas-malha-fria",
+        "slug":  "camiseta-preta-coloridas-malha-fria",
+        "nome":  "CAMISETA PRETA OU COLORIDAS MALHA FRIA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Camisetas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  54.90,
+                           "faixa6a10":  49.90,
+                           "faixa20":  47.90,
+                           "faixa30a40":  44.90,
+                           "faixa50":  39.90,
+                           "faixa60a80":  37.90,
+                           "faixa100":  35.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "camisetas-dry-fit-malha-fria",
+        "slug":  "camisetas-dry-fit-malha-fria",
+        "nome":  "CAMISETAS DRY FIT E MALHA FRIA PERSONALIZACAO TOTAL",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Camisetas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  69.90,
+                           "faixa6a10":  59.90,
+                           "faixa20":  57.90,
+                           "faixa30a40":  55.90,
+                           "faixa50":  53.90,
+                           "faixa60a80":  51.90,
+                           "faixa100":  49.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-esmalte-branco-borda-preta",
+        "slug":  "caneca-esmalte-branco-borda-preta",
+        "nome":  "CANECA ESMALTE ESMALTE BRANCO C BORDA PRETA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Canecas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  49.90,
+                           "faixa6a10":  47.90,
+                           "faixa20":  45.90,
+                           "faixa30a40":  43.90,
+                           "faixa50":  41.90,
+                           "faixa60a80":  39.90,
+                           "faixa100":  38.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-inox-branca-220ml",
+        "slug":  "caneca-inox-branca-220ml",
+        "nome":  "CANECA INOX BRANCA 220ML ALCA MOSQUETAO VERMELHA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Canecas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  49.90,
+                           "faixa6a10":  47.90,
+                           "faixa20":  45.90,
+                           "faixa30a40":  43.90,
+                           "faixa50":  41.90,
+                           "faixa60a80":  39.90,
+                           "faixa100":  38.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-inox-prata-300ml",
+        "slug":  "caneca-inox-prata-300ml",
+        "nome":  "CANECA INOX PRATA 300ML ALCA MOSQUETAO PRETA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Canecas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  49.90,
+                           "faixa6a10":  47.90,
+                           "faixa20":  45.90,
+                           "faixa30a40":  43.90,
+                           "faixa50":  41.90,
+                           "faixa60a80":  39.90,
+                           "faixa100":  38.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneca-inox-prata-450ml",
+        "slug":  "caneca-inox-prata-450ml",
+        "nome":  "CANECA INOX PRATA 450ML ALCA MOSQUETAO VERMELHA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Canecas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  49.90,
+                           "faixa6a10":  47.90,
+                           "faixa20":  45.90,
+                           "faixa30a40":  43.90,
+                           "faixa50":  41.90,
+                           "faixa60a80":  39.90,
+                           "faixa100":  38.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneta-metalizada",
+        "slug":  "caneta-metalizada",
+        "nome":  "CANETA METALIZADA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Canetas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  11.99,
+                           "faixa6a10":  8.99,
+                           "faixa20":  6.99,
+                           "faixa30a40":  5.99,
+                           "faixa50":  4.99,
+                           "faixa60a80":  4.29,
+                           "faixa100":  3.99
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "caneta-plastica",
+        "slug":  "caneta-plastica",
+        "nome":  "CANETA PLASTICA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Canetas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  9.90,
+                           "faixa6a10":  8.99,
+                           "faixa20":  7.99,
+                           "faixa30a40":  6.99,
+                           "faixa50":  4.99,
+                           "faixa60a80":  3.49,
+                           "faixa100":  2.99
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "chaveiro-abridor-metal",
+        "slug":  "chaveiro-abridor-metal",
+        "nome":  "CHAVEIRO ABRIDOR METAL",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Chaveiros",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  9.90,
+                           "faixa6a10":  6.99,
+                           "faixa20":  5.99,
+                           "faixa30a40":  4.99,
+                           "faixa50":  3.49,
+                           "faixa60a80":  2.99,
+                           "faixa100":  2.49
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "chaveiro-acrilico-3x4",
+        "slug":  "chaveiro-acrilico-3x4",
+        "nome":  "CHAVEIRO ACRILICO 3X4",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Chaveiros",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  12.90,
+                           "faixa6a10":  7.99,
+                           "faixa20":  6.99,
+                           "faixa30a40":  5.99,
+                           "faixa50":  4.49,
+                           "faixa60a80":  3.99,
+                           "faixa100":  3.49
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "chaveiro-metal-cortador",
+        "slug":  "chaveiro-metal-cortador",
+        "nome":  "CHAVEIRO METAL CORTADOR DE UNHA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Chaveiros",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  12.90,
+                           "faixa6a10":  11.99,
+                           "faixa20":  9.90,
+                           "faixa30a40":  8.99,
+                           "faixa50":  7.99,
+                           "faixa60a80":  5.99,
+                           "faixa100":  4.99
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "chaveiro-quadrado-inox",
+        "slug":  "chaveiro-quadrado-inox",
+        "nome":  "CHAVEIRO QUADRADO INOX",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Chaveiros",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  19.90,
+                           "faixa6a10":  17.90,
+                           "faixa20":  16.90,
+                           "faixa30a40":  14.90,
+                           "faixa50":  13.90,
+                           "faixa60a80":  11.90,
+                           "faixa100":  9.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "chaveiros-coracao-acrilico-metalizado",
+        "slug":  "chaveiros-coracao-acrilico-metalizado",
+        "nome":  "CHAVEIROS CORACAO ACRILICO METALIZADO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Chaveiros",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  12.90,
+                           "faixa6a10":  7.99,
+                           "faixa20":  6.99,
+                           "faixa30a40":  5.99,
+                           "faixa50":  4.99,
+                           "faixa60a80":  3.99,
+                           "faixa100":  3.49
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "chinelo-personalizado",
+        "slug":  "chinelo-personalizado",
+        "nome":  "CHINELO PERSONALIZADO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "CalÃ§ados",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  30.90,
+                           "faixa50":  26.90,
+                           "faixa60a80":  21.90,
+                           "faixa100":  19.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "cofrinho-personalizado",
+        "slug":  "cofrinho-personalizado",
+        "nome":  "COFRINHO PERSONALIZADO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Cofrinhos",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  14.90,
+                           "faixa6a10":  9.90,
+                           "faixa20":  7.99,
+                           "faixa30a40":  6.99,
+                           "faixa50":  5.99,
+                           "faixa60a80":  5.49,
+                           "faixa100":  4.99
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "copo-terere-330ml-ecologico",
+        "slug":  "copo-terere-330ml-ecologico",
+        "nome":  "COPO TERERE 330ML ECOLOGICO COM INTERNA ALUMINIO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Copos",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  29.90,
+                           "faixa6a10":  27.90,
+                           "faixa20":  25.90,
+                           "faixa30a40":  21.90,
+                           "faixa50":  19.90,
+                           "faixa60a80":  17.90,
+                           "faixa100":  14.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "cuca-personalizada",
+        "slug":  "cuca-personalizada",
+        "nome":  "CUCA PERSONALIZADA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "BonÃ©s",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  30.90,
+                           "faixa50":  26.90,
+                           "faixa60a80":  21.90,
+                           "faixa100":  19.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "espelho-escova",
+        "slug":  "espelho-escova",
+        "nome":  "ESPELHO COM ESCOVA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Espelhos",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  19.90,
+                           "faixa6a10":  12.90,
+                           "faixa20":  9.90,
+                           "faixa30a40":  8.99,
+                           "faixa50":  7.99,
+                           "faixa60a80":  7.49,
+                           "faixa100":  6.99
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "espelho-quadrado",
+        "slug":  "espelho-quadrado",
+        "nome":  "ESPELHO QUADRADO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Espelhos",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  19.90,
+                           "faixa6a10":  12.90,
+                           "faixa20":  9.90,
+                           "faixa30a40":  7.99,
+                           "faixa50":  6.99,
+                           "faixa60a80":  6.49,
+                           "faixa100":  5.99
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "estojo-tecido-sublimacao",
+        "slug":  "estojo-tecido-sublimacao",
+        "nome":  "ESTOJO TECIDO SUBLIMACAO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Estojos",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  29.90,
+                           "faixa6a10":  24.90,
+                           "faixa20":  21.90,
+                           "faixa30a40":  19.90,
+                           "faixa50":  17.90,
+                           "faixa60a80":  14.90,
+                           "faixa100":  13.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "garrafa-nao-termica-aluminio-nike-600ml",
+        "slug":  "garrafa-nao-termica-aluminio-nike-600ml",
+        "nome":  "GARRAFA NAO TERMICA ALUMINIO NIKE 600ML BCA E PRATA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Garrafas",
+        "material":  "aluminio",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  44.90,
+                           "faixa6a10":  35.90,
+                           "faixa20":  37.90,
+                           "faixa30a40":  35.90,
+                           "faixa50":  33.90,
+                           "faixa60a80":  31.90,
+                           "faixa100":  29.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "sem_acrescimo",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "kit-churrasco-completo",
+        "slug":  "kit-churrasco-completo",
+        "nome":  "KIT CHURRASCO CASE COMPLETO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Kits",
+        "material":  "misto",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  79.90,
+                           "faixa6a10":  77.90,
+                           "faixa20":  75.90,
+                           "faixa30a40":  73.90,
+                           "faixa50":  69.90,
+                           "faixa60a80":  64.90,
+                           "faixa100":  59.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "kit-coador-cafe",
+        "slug":  "kit-coador-cafe",
+        "nome":  "KIT COADOR CAFÃ‰",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Kits",
+        "material":  "misto",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  79.90,
+                           "faixa6a10":  77.90,
+                           "faixa20":  75.90,
+                           "faixa30a40":  73.90,
+                           "faixa50":  69.90,
+                           "faixa60a80":  64.90,
+                           "faixa100":  59.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "lixo-car",
+        "slug":  "lixo-car",
+        "nome":  "LIXO CAR",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Lixeiras",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  9.90,
+                           "faixa6a10":  8.99,
+                           "faixa20":  7.99,
+                           "faixa30a40":  6.99,
+                           "faixa50":  5.99,
+                           "faixa60a80":  4.99,
+                           "faixa100":  4.99
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "mini-porta-joias",
+        "slug":  "mini-porta-joias",
+        "nome":  "MINI PORTA JOIAS",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Caixas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  30.90,
+                           "faixa50":  26.90,
+                           "faixa60a80":  21.90,
+                           "faixa100":  19.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "mochila-costas-branca-19x35",
+        "slug":  "mochila-costas-branca-19x35",
+        "nome":  "MOCHILA COSTAS BRANCA 19X35 CORDAO BRANCO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Mochilas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  34.90,
+                           "faixa6a10":  29.90,
+                           "faixa20":  27.90,
+                           "faixa30a40":  25.90,
+                           "faixa50":  23.90,
+                           "faixa60a80":  21.90,
+                           "faixa100":  19.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "mochila-costas-branca-20x30",
+        "slug":  "mochila-costas-branca-20x30",
+        "nome":  "MOCHILA COSTAS BRANCA 20X30 CORDAO PRETO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Mochilas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  34.90,
+                           "faixa6a10":  29.90,
+                           "faixa20":  27.90,
+                           "faixa30a40":  25.90,
+                           "faixa50":  23.90,
+                           "faixa60a80":  21.90,
+                           "faixa100":  19.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "mochila-costas-branca-30x40",
+        "slug":  "mochila-costas-branca-30x40",
+        "nome":  "MOCHILA COSTAS BRANCA 30X40 CORDAO PRETO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Mochilas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  34.90,
+                           "faixa6a10":  29.90,
+                           "faixa20":  27.90,
+                           "faixa30a40":  25.90,
+                           "faixa50":  23.90,
+                           "faixa60a80":  21.90,
+                           "faixa100":  19.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "mouse-pad-ergonomico",
+        "slug":  "mouse-pad-ergonomico",
+        "nome":  "MOUSE PAD ERGONOMICO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "PerifÃ©ricos",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  29.90,
+                           "faixa6a10":  24.90,
+                           "faixa20":  23.90,
+                           "faixa30a40":  19.90,
+                           "faixa50":  17.90,
+                           "faixa60a80":  14.90,
+                           "faixa100":  12.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "mouse-pad-quadrado",
+        "slug":  "mouse-pad-quadrado",
+        "nome":  "MOUSE PAD QUADRADO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "PerifÃ©ricos",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  29.90,
+                           "faixa6a10":  24.90,
+                           "faixa20":  23.90,
+                           "faixa30a40":  19.90,
+                           "faixa50":  17.90,
+                           "faixa60a80":  14.90,
+                           "faixa100":  12.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "necessaire-plastica-basica",
+        "slug":  "necessaire-plastica-basica",
+        "nome":  "NECESSAIRE PLASTICA BASICA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Necessaires",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  24.90,
+                           "faixa6a10":  12.90,
+                           "faixa20":  9.90,
+                           "faixa30a40":  8.99,
+                           "faixa50":  7.99,
+                           "faixa60a80":  7.99,
+                           "faixa100":  6.99
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "necessaire-plastica-premium",
+        "slug":  "necessaire-plastica-premium",
+        "nome":  "NECESSAIRE PLASTICA PREMIUM",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Necessaires",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  24.90,
+                           "faixa6a10":  12.90,
+                           "faixa20":  9.90,
+                           "faixa30a40":  8.99,
+                           "faixa50":  7.99,
+                           "faixa60a80":  7.49,
+                           "faixa100":  6.99
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "placa-resina-10x15-base",
+        "slug":  "placa-resina-10x15-base",
+        "nome":  "PLACA RESINA 10X15 COM BASE SUBLIMACAO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Placas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  30.90,
+                           "faixa50":  27.90,
+                           "faixa60a80":  24.90,
+                           "faixa100":  23.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "pulseiras-eventos",
+        "slug":  "pulseiras-eventos",
+        "nome":  "PULSEIRAS EVENTOS",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "AcessÃ³rios",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  9.90,
+                           "faixa6a10":  6.99,
+                           "faixa20":  3.99,
+                           "faixa30a40":  1.99,
+                           "faixa50":  1.49,
+                           "faixa60a80":  1.29,
+                           "faixa100":  0.99
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "quadro-mdf-vidro-21x30",
+        "slug":  "quadro-mdf-vidro-21x30",
+        "nome":  "QUADRO MDF COM VIDRO 21X30 BRANCO E PRETO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Quadros",
+        "material":  "misto",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  30.90,
+                           "faixa50":  27.90,
+                           "faixa60a80":  25.90,
+                           "faixa100":  24.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "sacola-oxford-30x40",
+        "slug":  "sacola-oxford-30x40",
+        "nome":  "SACOLA OXFORD 30X40 BRANCA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Sacolas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  33.90,
+                           "faixa30a40":  30.90,
+                           "faixa50":  26.90,
+                           "faixa60a80":  21.90,
+                           "faixa100":  19.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "sacola-plastica-20x30",
+        "slug":  "sacola-plastica-20x30",
+        "nome":  "SACOLA PLASTICA 20X30 BOCA PALHACO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Sacolas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  null,
+                           "faixa6a10":  null,
+                           "faixa20":  null,
+                           "faixa30a40":  null,
+                           "faixa50":  null,
+                           "faixa60a80":  null,
+                           "faixa100":  null
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   },
+        "observacoes":  [
+                            "ACIMA DE 300 UNID 2,99 CADA"
+                        ]
+    },
+    {
+        "id":  "sacola-plastica-30x40",
+        "slug":  "sacola-plastica-30x40",
+        "nome":  "SACOLA PLASTICA 30X40 BOCA PALHACO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Sacolas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  null,
+                           "faixa6a10":  null,
+                           "faixa20":  null,
+                           "faixa30a40":  null,
+                           "faixa50":  null,
+                           "faixa60a80":  null,
+                           "faixa100":  null
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   },
+        "observacoes":  [
+                            "ACIMA DE 300 UNID 3,49 CADA"
+                        ]
+    },
+    {
+        "id":  "sacola-plastica-40x50",
+        "slug":  "sacola-plastica-40x50",
+        "nome":  "SACOLA PLASTICA 40X50 BOCA PALHACO",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Sacolas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  null,
+                           "faixa6a10":  null,
+                           "faixa20":  null,
+                           "faixa30a40":  null,
+                           "faixa50":  null,
+                           "faixa60a80":  null,
+                           "faixa100":  null
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "sacola-preta-papel-formatura",
+        "slug":  "sacola-preta-papel-formatura",
+        "nome":  "SACOLA PRETA 25X35 PAPEL PARA FORMATURA",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Sacolas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  15.00,
+                           "faixa6a10":  9.90,
+                           "faixa20":  8.99,
+                           "faixa30a40":  7.99,
+                           "faixa50":  6.99,
+                           "faixa60a80":  5.99,
+                           "faixa100":  4.99
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "sacola-pvc-transparente",
+        "slug":  "sacola-pvc-transparente",
+        "nome":  "SACOLA PVC TRANSPARENTE",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Sacolas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  16.90,
+                           "faixa6a10":  13.90,
+                           "faixa20":  12.90,
+                           "faixa30a40":  11.90,
+                           "faixa50":  10.90,
+                           "faixa60a80":  9.90,
+                           "faixa100":  8.99
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "sacola-tnt-metalizado-20x25",
+        "slug":  "sacola-tnt-metalizado-20x25",
+        "nome":  "SACOLA TNT METALIZADO 20X25",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Sacolas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  32.90,
+                           "faixa6a10":  29.90,
+                           "faixa20":  26.90,
+                           "faixa30a40":  23.90,
+                           "faixa50":  21.90,
+                           "faixa60a80":  18.90,
+                           "faixa100":  14.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "sacola-tnt-metalizado-40x50",
+        "slug":  "sacola-tnt-metalizado-40x50",
+        "nome":  "SACOLA TNT METALIZADO 40X50",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Sacolas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  39.90,
+                           "faixa6a10":  36.90,
+                           "faixa20":  26.90,
+                           "faixa30a40":  23.90,
+                           "faixa50":  21.90,
+                           "faixa60a80":  18.90,
+                           "faixa100":  14.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    },
+    {
+        "id":  "toalha-lavabo-25x38",
+        "slug":  "toalha-lavabo-25x38",
+        "nome":  "TOALHA LAVABO 25X38",
+        "categoriaMacro":  "diverso",
+        "categoriaDisplay":  "Itens Diversos",
+        "subcategoria":  "Toalhas",
+        "material":  "diverso",
+        "priceModel":  "direct_tier_price",
+        "priceTable":  {
+                           "faixa1a5":  19.90,
+                           "faixa6a10":  17.90,
+                           "faixa20":  15.90,
+                           "faixa30a40":  14.90,
+                           "faixa50":  12.90,
+                           "faixa60a80":  11.90,
+                           "faixa100":  10.90
+                       },
+        "regras":  {
+                       "permiteDegrade":  false,
+                       "permiteBorda":  false,
+                       "permiteTransferFrente":  false,
+                       "permiteTransferFrenteVerso":  false,
+                       "regraNomes":  "nao_aplica",
+                       "elegivelDescontoVolume":  false,
+                       "linhaAcqua":  false
+                   }
+    }
+]

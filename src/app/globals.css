@@ -1,0 +1,189 @@
+@import "tailwindcss";
+
+/* ═══════════════════════════════════════════════
+   DESIGN SYSTEM — CRUZEIRO MEGA CUP
+   Dark Premium | Fonte de verdade para todas as cores
+   ═══════════════════════════════════════════════ */
+:root {
+  /* Backgrounds */
+  --bg:              #030712;
+  --bg-soft:         #07111C;
+  --surface:         #0B1220;
+  --surface-el:      #111827;
+  --surface-hover:   #162030;
+
+  /* Bordas */
+  --border:          #1F2937;
+  --border-hover:    #374151;
+
+  /* Texto */
+  --text:            #F8FAFC;
+  --text-muted:      #CBD5E1;
+  --text-soft:       #94A3B8;
+
+  /* Destaques */
+  --lime:            #B6FF00;
+  --lime-dark:       #020617;   /* texto sobre lime */
+  --cyan:            #00D5FF;
+  --cyan-dark:       #020617;   /* texto sobre cyan */
+
+  /* Ações */
+  --whatsapp:        #22C55E;
+  --whatsapp-hover:  #16a34a;
+  --blue:            #2563EB;
+
+  /* Sombras — compositor-only */
+  --shadow-sm:  0 1px 3px rgba(0,0,0,0.4);
+  --shadow-md:  0 4px 16px rgba(0,0,0,0.45);
+  --shadow-lg:  0 8px 32px rgba(0,0,0,0.55);
+  --shadow-lime: 0 4px 24px rgba(182,255,0,0.18);
+  --shadow-cyan: 0 4px 24px rgba(0,213,255,0.15);
+
+  color-scheme: dark;
+}
+
+/* ─── Base ──────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body), "Inter", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display), "Montserrat", system-ui, sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.025em;
+  text-wrap: balance;
+}
+
+/* ─── Animações (transform + opacity apenas) ────────── */
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(18px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(-7px); }
+}
+@keyframes shimmer {
+  0%   { transform: translateX(-100%); }
+  100% { transform: translateX(200%); }
+}
+@keyframes pop-in {
+  0%   { opacity: 0; transform: scale(0.9); }
+  70%  { transform: scale(1.04); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+.animate-fade-up    { animation: fade-up 0.45s ease both; }
+.animate-fade-in    { animation: fade-in 0.35s ease both; }
+.animate-float      { animation: float 4s ease-in-out infinite; }
+.animate-pop-in     { animation: pop-in 0.28s ease both; }
+.animate-delay-100  { animation-delay: 80ms; }
+.animate-delay-200  { animation-delay: 160ms; }
+.animate-delay-300  { animation-delay: 240ms; }
+.animate-delay-400  { animation-delay: 320ms; }
+.animate-delay-500  { animation-delay: 400ms; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ─── Foco ──────────────────────────────────────────── */
+:focus-visible {
+  outline: 2px solid var(--lime);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* ─── Botões ────────────────────────────────────────── */
+.btn-lime {
+  background-color: var(--lime);
+  color: var(--lime-dark);
+  font-weight: 700;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+}
+.btn-lime:hover  { transform: translateY(-1px); box-shadow: var(--shadow-lime); filter: brightness(1.06); }
+.btn-lime:active { transform: translateY(0); }
+
+.btn-outline {
+  background-color: transparent;
+  border: 1px solid var(--border-hover);
+  color: var(--text);
+  font-weight: 600;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+.btn-outline:hover { background-color: var(--surface-el); border-color: var(--text-soft); }
+
+.btn-cyan {
+  background-color: var(--cyan);
+  color: var(--cyan-dark);
+  font-weight: 700;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.btn-cyan:hover { transform: translateY(-1px); box-shadow: var(--shadow-cyan); }
+
+.btn-wa {
+  background-color: var(--whatsapp);
+  color: #fff;
+  font-weight: 700;
+  transition: background-color 0.15s ease, transform 0.15s ease;
+}
+.btn-wa:hover { background-color: var(--whatsapp-hover); transform: translateY(-1px); }
+
+/* ─── Cards de produto ──────────────────────────────── */
+.product-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  box-shadow: var(--shadow-sm);
+}
+.product-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--lime) !important;
+}
+
+/* Imagem/placeholder por material */
+.card-img-acrilico  { background: linear-gradient(145deg, #0c1e3a 0%, #1a3a6a 100%); }
+.card-img-aluminio  { background: linear-gradient(145deg, #111827 0%, #1f2937 100%); }
+.card-img-porcelana { background: linear-gradient(145deg, #1a0e3a 0%, #3b1e6a 100%); }
+.card-img-vidro     { background: linear-gradient(145deg, #062a1e 0%, #0e4a35 100%); }
+.card-img-termico   { background: linear-gradient(145deg, #1a0e00 0%, #3a2000 100%); }
+.card-img-diverso   { background: linear-gradient(145deg, #1a0a0e 0%, #3a0e1e 100%); }
+
+/* ─── Skeleton ──────────────────────────────────────── */
+.skeleton {
+  position: relative;
+  overflow: hidden;
+  background-color: var(--surface);
+  border-radius: 8px;
+}
+.skeleton::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, transparent 0%, rgba(255,255,255,0.05) 50%, transparent 100%);
+  animation: shimmer 1.5s infinite;
+}
+
+/* ─── Header glass ──────────────────────────────────── */
+.header-glass {
+  background: rgba(3,7,18,0.92);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+/* ─── CTA sticky mobile ─────────────────────────────── */
+.sticky-cta-enter { transition: transform 0.25s ease, opacity 0.25s ease; }

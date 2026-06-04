@@ -1,0 +1,13 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad19" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a2332;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1420;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#grad19)"/>
+  <circle cx="200" cy="120" r="70" fill="#ffcc99" opacity="0.2"/>
+  <text x="200" y="140" font-size="80" text-anchor="middle" fill="#ffcc99" opacity="0.8">☕</text>
+  <text x="200" y="220" font-size="20" font-weight="bold" text-anchor="middle" fill="#ffffff">Kit Padrinho</text>
+  <text x="200" y="260" font-size="12" text-anchor="middle" fill="#999999">Personalizado</text>
+</svg>
