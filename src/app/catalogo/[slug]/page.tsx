@@ -119,17 +119,33 @@ export default async function ProductPage({ params }: Props) {
             <div className="relative">
               {produto.galeria && produto.galeria.length > 0 ? (
                 <ProductGalery images={produto.galeria} productName={produto.nome} />
+              ) : produto.imagem ? (
+                <div className="relative aspect-square rounded-2xl overflow-hidden" style={{ border: "1px solid var(--border)" }}>
+                  <Image src={produto.imagem} alt={produto.nome} fill className="object-cover" sizes="(max-width: 1024px) 100vw, 50vw" />
+                </div>
               ) : (
-                <div className="aspect-square bg-gradient-to-br from-navy-50 to-surface rounded-2xl border border-navy-100 flex items-center justify-center relative overflow-hidden">
-                  <div className="absolute inset-0 bg-dots opacity-30" />
-                  <span className="text-8xl relative z-10 opacity-40">
+                <div
+                  className="aspect-square rounded-2xl flex flex-col items-center justify-center relative overflow-hidden"
+                  style={{
+                    background: produto.material === "porcelana"
+                      ? "linear-gradient(145deg, #1a0e3a 0%, #3b1e6a 100%)"
+                      : produto.material === "vidro"
+                      ? "linear-gradient(145deg, #062a1e 0%, #0e4a35 100%)"
+                      : produto.material === "termico"
+                      ? "linear-gradient(145deg, #1a0e00 0%, #3a2000 100%)"
+                      : produto.material === "aluminio"
+                      ? "linear-gradient(145deg, #111827 0%, #1f2937 100%)"
+                      : "linear-gradient(145deg, #0c1e3a 0%, #1a3a6a 100%)",
+                    border: "1px solid var(--border)",
+                  }}
+                >
+                  <span className="text-8xl mb-4">
                     {produto.material === "termico" ? "♨️" :
-                     produto.material === "porcelana" ? "🍵" :
+                     produto.material === "porcelana" ? "☕" :
                      produto.material === "vidro" ? "🍷" :
                      produto.material === "aluminio" ? "🥤" : "🥤"}
                   </span>
-
-                  <p className="absolute bottom-4 left-0 right-0 text-center text-xs text-navy-400">
+                  <p className="text-xs font-medium px-4 text-center" style={{ color: "var(--text-soft)" }}>
                     Imagem ilustrativa · Foto real após personalização
                   </p>
                 </div>
