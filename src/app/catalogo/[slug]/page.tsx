@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import { getCatalog, getProductBySlug } from "@/lib/catalog/get-catalog";
 import { precoAPartirDe } from "@/lib/pricing/engine";
 import { formatBRLShort, materialLabels } from "@/lib/utils";

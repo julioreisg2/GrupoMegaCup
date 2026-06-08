@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import { ChevronDown } from "lucide-react";
-import { cn } from "@/lib/utils";
 import { siteConfig } from "@/config/site";
 
 const faqs = [
@@ -24,37 +23,37 @@ const faqs = [
   },
   {
     q: "Posso colocar nomes individuais em cada peça?",
-    a: "Sim, em muitos produtos como copos acrílicos e canecas. Até 10 unidades, nomes podem ser inclusos sem custo. Acima disso, há acréscimo de R$ 1,99/un. Alumínio e porcelana não cobram extra por nome.",
+    a: "Sim, em muitos produtos como copos acrílicos e canecas. Até 10 unidades, nomes podem ser inclusos sem custo. Acima disso, há acréscimo de R$ 1,99/un.",
   },
   {
     q: "O que é acabamento degradê e borda?",
-    a: "São opções de personalização para produtos acrílicos. Degradê é a coloração gradual no copo (+R$ 1,00/un). Borda é o acabamento especial na borda do copo (+R$ 0,50/un). Podem ser combinados.",
+    a: "São opções de personalização para produtos acrílicos. Degradê é a coloração gradual no copo (+R$ 1,00/un). Borda é o acabamento especial na borda do copo (+R$ 0,50/un).",
   },
 ];
 
 function FAQItem({ q, a }: { q: string; a: string }) {
   const [open, setOpen] = useState(false);
   return (
-    <div className="border-b border-navy-100 last:border-0">
+    <div style={{ borderBottom: "1px solid var(--border)" }}>
       <button
         onClick={() => setOpen(!open)}
-        className="w-full flex items-start justify-between gap-4 py-4 text-left hover:text-navy-600 transition-colors"
+        className="w-full flex items-start justify-between gap-4 py-4 text-left transition-colors"
+        style={{ color: "var(--text)" }}
       >
-        <span className="font-medium text-navy-800">{q}</span>
+        <span className="font-medium text-sm sm:text-base">{q}</span>
         <ChevronDown
-          className={cn(
-            "w-5 h-5 text-navy-400 flex-shrink-0 transition-transform duration-200 mt-0.5",
-            open && "rotate-180"
-          )}
+          className="w-5 h-5 flex-shrink-0 transition-transform duration-200 mt-0.5"
+          style={{
+            color: "var(--text-soft)",
+            transform: open ? "rotate(180deg)" : "rotate(0deg)",
+          }}
         />
       </button>
       <div
-        className={cn(
-          "overflow-hidden transition-all duration-200",
-          open ? "max-h-48 pb-4" : "max-h-0"
-        )}
+        className="overflow-hidden transition-all duration-200"
+        style={{ maxHeight: open ? "200px" : "0", paddingBottom: open ? "16px" : "0" }}
       >
-        <p className="text-navy-600 text-sm leading-relaxed">{a}</p>
+        <p className="text-sm leading-relaxed" style={{ color: "var(--text-muted)" }}>{a}</p>
       </div>
     </div>
   );
@@ -62,30 +61,34 @@ function FAQItem({ q, a }: { q: string; a: string }) {
 
 export function HomeFAQ() {
   return (
-    <section className="py-16 lg:py-24 bg-white">
+    <section className="py-16 lg:py-24" style={{ backgroundColor: "var(--bg-soft)" }}>
       <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-10">
-          <p className="text-gold-600 text-sm font-semibold uppercase tracking-wider mb-2">
+          <p className="text-sm font-bold uppercase tracking-wider mb-2" style={{ color: "var(--cyan)" }}>
             Dúvidas
           </p>
-          <h2 className="font-display text-4xl lg:text-5xl font-bold text-navy-900">
+          <h2 className="font-display text-4xl lg:text-5xl font-bold" style={{ color: "var(--text)" }}>
             Perguntas frequentes
           </h2>
         </div>
 
-        <div className="bg-white rounded-2xl border border-navy-100 shadow-sm p-6 divide-y divide-navy-50">
+        <div
+          className="rounded-2xl p-6"
+          style={{ backgroundColor: "var(--surface)", border: "1px solid var(--border)" }}
+        >
           {faqs.map((faq, i) => (
             <FAQItem key={i} q={faq.q} a={faq.a} />
           ))}
         </div>
 
-        <p className="text-center text-navy-500 text-sm mt-6">
+        <p className="text-center text-sm mt-6" style={{ color: "var(--text-soft)" }}>
           Não encontrou sua resposta?{" "}
           <a
             href={siteConfig.whatsapp.link}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-navy-700 font-medium underline hover:text-navy-900"
+            className="font-medium underline transition-opacity hover:opacity-70"
+            style={{ color: "var(--lime)" }}
           >
             Fale conosco pelo WhatsApp
           </a>
