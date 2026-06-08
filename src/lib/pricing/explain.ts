@@ -184,6 +184,9 @@ export function gerarMensagemComCheckout(
 }
 
 export function gerarLinkWhatsApp(mensagem: string): string {
-  const encoded = encodeURIComponent(mensagem);
+  const encoded = mensagem
+    .split("\n")
+    .map((linha) => encodeURIComponent(linha))
+    .join("%0A");
   return `https://wa.me/55${siteConfig.whatsapp.numero}?text=${encoded}`;
 }
