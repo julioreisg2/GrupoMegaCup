@@ -47,8 +47,17 @@ export function CatalogFilters() {
     [router, params]
   );
 
-  const hasFilters = !!params.get("tipo") || !!params.get("q");
+  const hasFilters = !!params.get("tipo") || !!params.get("segmento") || !!params.get("q");
   const activeTipo = params.get("tipo") ?? "";
+  const activeSegmento = params.get("segmento") ?? "";
+
+  const segmentos = [
+    { value: "", label: "Todos os eventos" },
+    { value: "corporativo", label: "Corporativo" },
+    { value: "casamento", label: "Casamento" },
+    { value: "aniversario", label: "Aniversário" },
+    { value: "formaturas", label: "Formaturas" },
+  ];
 
   return (
     <aside className="w-full lg:w-60 flex-shrink-0">
@@ -85,22 +94,15 @@ export function CatalogFilters() {
           </div>
         </div>
 
-        {/* Selos */}
+        {/* Segmento / Evento */}
         <div>
           <p className="text-[10px] font-bold uppercase tracking-widest mb-2" style={{ color: "var(--text-soft)" }}>
-            Selos
+            Para qual evento?
           </p>
           <div className="flex flex-col gap-0.5">
-            {[
-              { key: "destaque", label: "Destaques" },
-              { key: "lancamento", label: "Lançamentos" },
-            ].map(({ key, label }) => (
-              <FilterItem
-                key={key}
-                active={params.get(key) === "true"}
-                onClick={() => update(key, params.get(key) === "true" ? "" : "true")}
-              >
-                {label}
+            {segmentos.map((s) => (
+              <FilterItem key={s.value} active={activeSegmento === s.value} onClick={() => update("segmento", s.value)}>
+                {s.label}
               </FilterItem>
             ))}
           </div>

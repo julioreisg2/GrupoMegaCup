@@ -26,7 +26,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-700ml",
@@ -59,7 +62,11 @@
       "/products/copo-whisky-preto-garrafa.jpg"
     ],
     "imagem": "/products/copo-whisky-preto-garrafa.jpg",
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "copo-cuia-alca-350ml",
@@ -88,7 +95,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-cuia-tampa-350ml",
@@ -117,7 +127,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-flip-tampa-alca-900ml",
@@ -146,7 +159,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-mamadeira-termico-infantil-220ml-baby",
@@ -175,7 +191,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-mini-big-410ml",
@@ -221,7 +240,10 @@
       "/products/copo-mini-big-410ml-13.jpg",
       "/products/copo-mini-big-410ml-14.jpg"
     ],
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-porta-long-drink-tampa",
@@ -250,7 +272,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-virginia-big-1200ml",
@@ -279,7 +304,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "garrafa-800ml-adventure",
@@ -308,7 +336,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "garrafa-500ml-tampa-digital",
@@ -337,7 +369,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "garrafa-700ml-mosquetao",
@@ -366,7 +402,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "garrafa-flip-straw-650ml",
@@ -395,7 +435,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "garrafa-termica-500ml-branca-prata-jkb",
@@ -424,7 +468,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "garrafa-termica-750ml-branca-prata-jkb",
@@ -453,7 +501,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "garrafa-termica-infantil-350ml-alca-ajuste-rosa-bb-isa",
@@ -482,7 +534,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "garrafa-termica-infantil-350ml-alca-tampa-bolinha",
@@ -511,7 +567,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "garrafa-termica-infantil-350ml-click-bloco-retratil",
@@ -540,7 +600,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "garrafa-termica-infantil-400ml-pra-laser",
@@ -569,7 +633,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "garrafa-termica-infantil-500ml-alca-flip",
@@ -598,7 +666,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "copo-long-drink-330ml",
@@ -680,7 +752,10 @@
       "/products/copo-long-drink-330ml-47.jpg",
       "/products/copo-long-drink-330ml-48.jpg"
     ],
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-long-drink-metalizado",
@@ -727,7 +802,10 @@
       "/products/copo-long-drink-metalizado-12.jpg",
       "/products/copo-long-drink-metalizado-13.jpg"
     ],
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "canecas-450ml",
@@ -795,7 +873,11 @@
       "/products/canecas-450ml-33.jpg",
       "/products/canecas-450ml-34.jpg"
     ],
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "canecas-500ml-metalizado",
@@ -825,7 +907,11 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "caneca-slim-330ml",
@@ -882,7 +968,11 @@
       "/products/caneca-slim-330ml-22.jpg",
       "/products/caneca-slim-330ml-23.jpg"
     ],
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "copo-twister-caldereta-350ml-400ml-550ml",
@@ -930,7 +1020,10 @@
       "/products/copo-twister-caldereta-350ml-400ml-550ml-14.jpg",
       "/products/copo-twister-caldereta-350ml-400ml-550ml-15.jpg"
     ],
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-twister-550ml-metalizado",
@@ -1000,7 +1093,10 @@
       "/products/copo-twister-550ml-metalizado-35.jpg",
       "/products/copo-twister-550ml-metalizado-36.jpg"
     ],
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-twister-cald-350ml-400ml-550ml-tampa-canudo",
@@ -1048,7 +1144,10 @@
       "/products/copo-twister-cald-350ml-400ml-550ml-tampa-canudo-14.jpg",
       "/products/copo-twister-cald-350ml-400ml-550ml-tampa-canudo-15.jpg"
     ],
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-twister-550ml-tampa-chantilly",
@@ -1078,7 +1177,10 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-eco-400ml-650ml",
@@ -1108,7 +1210,10 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-eco-400-650ml-tampa-caudo-bucks",
@@ -1138,7 +1243,10 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-eco-250-400-650ml-tampa-bucks",
@@ -1168,7 +1276,10 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-eco-400ml-tampa",
@@ -1198,7 +1309,10 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-eco-600ml-tampa-shake",
@@ -1228,7 +1342,10 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "taca-champagne-180ml",
@@ -1270,7 +1387,10 @@
     ],
     "imagem": "/products/taca-champagne-180ml-1.jpg",
     "destaque": true,
-    "tipoProduct": "taca"
+    "tipoProduct": "taca",
+    "segmentos": [
+      "casamento"
+    ]
   },
   {
     "id": "taca-licor-sobremesa-moquetao",
@@ -1300,7 +1420,10 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "taca"
+    "tipoProduct": "taca",
+    "segmentos": [
+      "casamento"
+    ]
   },
   {
     "id": "taca-vinho-350ml",
@@ -1335,7 +1458,10 @@
       "/products/taca-vinho-350ml-2.jpg"
     ],
     "imagem": "/products/taca-vinho-350ml-1.jpg",
-    "tipoProduct": "taca"
+    "tipoProduct": "taca",
+    "segmentos": [
+      "casamento"
+    ]
   },
   {
     "id": "taca-gin-580ml",
@@ -1385,7 +1511,10 @@
       "/products/taca-gin-580ml-15.jpg",
       "/products/taca-gin-580ml-16.jpg"
     ],
-    "tipoProduct": "taca"
+    "tipoProduct": "taca",
+    "segmentos": [
+      "casamento"
+    ]
   },
   {
     "id": "taca-gin-580ml-metalizado",
@@ -1415,7 +1544,10 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "taca"
+    "tipoProduct": "taca",
+    "segmentos": [
+      "casamento"
+    ]
   },
   {
     "id": "garrafa-agua-cor-basica",
@@ -1487,7 +1619,11 @@
       "/products/garrafa-agua-cor-basica-38.jpg",
       "/products/garrafa-agua-cor-basica-39.jpg"
     ],
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "garrafa-agua-metalizado",
@@ -1517,7 +1653,11 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "garrafas-cetim-personalizado-brilho-4cm",
@@ -1547,7 +1687,11 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "caneca-aluminio-500-850ml-silk-frente-verso-cor-unica",
@@ -1577,7 +1721,11 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "caneca-aluminio-500-850ml-colorido-sempre",
@@ -1607,7 +1755,11 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "caneca-moscow-mule-180-300ml",
@@ -1637,7 +1789,11 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "balde-gelo-unidade-eco-5lt",
@@ -1667,7 +1823,10 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "squeeze-plastico-400-650ml",
@@ -1697,7 +1856,10 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "placa-acrilica-10x15-pix-papel-foto-fundo",
@@ -1726,7 +1888,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "kit-eco250-400-mochila-oxford-20x30-branca",
@@ -1756,7 +1921,11 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "kit"
+    "tipoProduct": "kit",
+    "segmentos": [
+      "corporativo",
+      "aniversario"
+    ]
   },
   {
     "id": "kit-balde-pipoca-2-twister-550-eco-bucks-eco-tampa",
@@ -1786,7 +1955,11 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "kit"
+    "tipoProduct": "kit",
+    "segmentos": [
+      "corporativo",
+      "aniversario"
+    ]
   },
   {
     "id": "copo-whisky-330ml",
@@ -1825,7 +1998,10 @@
       "/products/copo-whisky-330ml-5.jpg",
       "/products/copo-whisky-330ml-6.jpg"
     ],
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-shot-50ml",
@@ -1855,7 +2031,10 @@
       "elegivelDescontoVolume": true,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "copo-brasileirinho-190ml",
@@ -1894,7 +2073,10 @@
       "/products/copo-brasileirinho-190ml-4.jpg",
       "/products/copo-brasileirinho-190ml-5.jpg"
     ],
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-comum-branca",
@@ -1923,7 +2105,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-180ml-branca-pires",
@@ -1952,7 +2138,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-150ml-branca",
@@ -1981,7 +2171,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-pires-150ml-preta",
@@ -2010,7 +2204,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-interna-love",
@@ -2039,7 +2237,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-interna-happy-bhirthay",
@@ -2068,7 +2270,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-taria-preta",
@@ -2097,7 +2303,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-colher-metal-base-madeira",
@@ -2126,7 +2336,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-magica-magica-glitter",
@@ -2155,7 +2369,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-alca-base-redonda",
@@ -2184,7 +2402,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-coracao-alca-base-colorida",
@@ -2213,7 +2435,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-colher-interna-colorida",
@@ -2242,7 +2468,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-tampa-silicone",
@@ -2271,7 +2501,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-gliter",
@@ -2300,7 +2534,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-base-gliter",
@@ -2329,7 +2567,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-metalizada",
@@ -2358,7 +2600,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-branca-alca-dourada",
@@ -2387,7 +2633,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-armada-dupla",
@@ -2416,7 +2666,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-armada-quadrupla",
@@ -2445,7 +2699,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-dupla-coracao",
@@ -2474,7 +2732,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-porcelana-polimero-branca",
@@ -2503,7 +2765,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "casamento",
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-mason-vidro-incolor-jateada",
@@ -2532,7 +2798,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "garrafa-vidro-infusao-cha-dourada",
@@ -2561,7 +2831,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "caneca-vidro-incolor-450ml-850ml",
@@ -2590,7 +2864,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "caneca-vidro-jateado-branco-jateado-colorido-473ml",
@@ -2619,7 +2897,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "tulipa-vidro-incolor-jateado",
@@ -2658,7 +2940,10 @@
       "/products/tulipa-vidro-incolor-jateado-6.jpg",
       "/products/tulipa-vidro-incolor-jateado-7.jpg"
     ],
-    "tipoProduct": "taca"
+    "tipoProduct": "taca",
+    "segmentos": [
+      "casamento"
+    ]
   },
   {
     "id": "taca-floripa-vidro-incolor-jateado",
@@ -2687,7 +2972,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "taca"
+    "tipoProduct": "taca",
+    "segmentos": [
+      "casamento"
+    ]
   },
   {
     "id": "taca-buffet-vidro-165ml",
@@ -2716,7 +3004,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "taca"
+    "tipoProduct": "taca",
+    "segmentos": [
+      "casamento"
+    ]
   },
   {
     "id": "copo-whisky-incolor-jateado",
@@ -2745,7 +3036,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "caneca-plastica-foto-papel",
@@ -2774,7 +3068,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "kit-caixa-mdf-completo-2-canecas-quadro-2-tercos",
@@ -2803,7 +3101,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "kit"
+    "tipoProduct": "kit",
+    "segmentos": [
+      "corporativo",
+      "aniversario"
+    ]
   },
   {
     "id": "almofada-30x30-enchimento",
@@ -2832,7 +3134,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "avental-preto-oxford",
@@ -2861,7 +3166,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "roupa"
+    "tipoProduct": "roupa",
+    "segmentos": [
+      "formaturas"
+    ]
   },
   {
     "id": "azulejo-15x15",
@@ -2890,7 +3198,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "azulejo-20x20",
@@ -2919,7 +3230,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "azulejo-20x20-relogio",
@@ -2948,7 +3262,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "body-bebe-branco",
@@ -2977,7 +3294,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "roupa"
+    "tipoProduct": "roupa",
+    "segmentos": [
+      "formaturas"
+    ]
   },
   {
     "id": "body-bebe-preto-colorido",
@@ -3006,7 +3326,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "roupa"
+    "tipoProduct": "roupa",
+    "segmentos": [
+      "formaturas"
+    ]
   },
   {
     "id": "bone-personalizado",
@@ -3035,7 +3358,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "caixa-mdf-kit",
@@ -3064,7 +3390,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "camiseta-branca-poliester",
@@ -3093,7 +3422,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "roupa"
+    "tipoProduct": "roupa",
+    "segmentos": [
+      "formaturas"
+    ]
   },
   {
     "id": "camiseta-preta-coloridas-malha-fria",
@@ -3122,7 +3454,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "roupa"
+    "tipoProduct": "roupa",
+    "segmentos": [
+      "formaturas"
+    ]
   },
   {
     "id": "camisetas-dry-fit-malha-fria",
@@ -3151,7 +3486,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "roupa"
+    "tipoProduct": "roupa",
+    "segmentos": [
+      "formaturas"
+    ]
   },
   {
     "id": "caneca-esmalte-branco-borda-preta",
@@ -3180,7 +3518,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "caneca-inox-branca-220ml",
@@ -3209,7 +3551,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "caneca-inox-prata-300ml",
@@ -3238,7 +3584,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "caneca-inox-prata-450ml",
@@ -3267,7 +3617,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "caneca"
+    "tipoProduct": "caneca",
+    "segmentos": [
+      "aniversario",
+      "formaturas"
+    ]
   },
   {
     "id": "caneta-metalizada",
@@ -3296,7 +3650,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "caneta-plastica",
@@ -3325,7 +3682,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "chaveiro-abridor-metal",
@@ -3354,7 +3714,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "chaveiro-acrilico-3x4",
@@ -3383,7 +3746,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "chaveiro-metal-cortador",
@@ -3412,7 +3778,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "chaveiro-quadrado-inox",
@@ -3441,7 +3810,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "chaveiros-coracao-acrilico-metalizado",
@@ -3470,7 +3842,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "chinelo-personalizado",
@@ -3499,7 +3874,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "roupa"
+    "tipoProduct": "roupa",
+    "segmentos": [
+      "formaturas"
+    ]
   },
   {
     "id": "cofrinho-personalizado",
@@ -3528,7 +3906,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "copo-terere-330ml-ecologico",
@@ -3557,7 +3938,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "copo"
+    "tipoProduct": "copo",
+    "segmentos": [
+      "aniversario"
+    ]
   },
   {
     "id": "cuca-personalizada",
@@ -3586,7 +3970,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "espelho-escova",
@@ -3615,7 +4002,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "espelho-quadrado",
@@ -3644,7 +4034,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "estojo-tecido-sublimacao",
@@ -3673,7 +4066,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "garrafa-nao-termica-aluminio-nike-600ml",
@@ -3702,7 +4098,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "garrafa"
+    "tipoProduct": "garrafa",
+    "segmentos": [
+      "corporativo",
+      "casamento"
+    ]
   },
   {
     "id": "kit-churrasco-completo",
@@ -3731,7 +4131,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "kit"
+    "tipoProduct": "kit",
+    "segmentos": [
+      "corporativo",
+      "aniversario"
+    ]
   },
   {
     "id": "kit-coador-cafe",
@@ -3760,7 +4164,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "kit"
+    "tipoProduct": "kit",
+    "segmentos": [
+      "corporativo",
+      "aniversario"
+    ]
   },
   {
     "id": "lixo-car",
@@ -3789,7 +4197,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "mini-porta-joias",
@@ -3818,7 +4229,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "mochila-costas-branca-19x35",
@@ -3847,7 +4261,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "mochila-costas-branca-20x30",
@@ -3876,7 +4293,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "mochila-costas-branca-30x40",
@@ -3905,7 +4325,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "mouse-pad-ergonomico",
@@ -3934,7 +4357,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "mouse-pad-quadrado",
@@ -3963,7 +4389,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "necessaire-plastica-basica",
@@ -3992,7 +4421,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "necessaire-plastica-premium",
@@ -4021,7 +4453,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "placa-resina-10x15-base",
@@ -4050,7 +4485,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "pulseiras-eventos",
@@ -4079,7 +4517,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "quadro-mdf-vidro-21x30",
@@ -4108,7 +4549,10 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   },
   {
     "id": "sacola-oxford-30x40",
@@ -4137,7 +4581,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "bolsa"
+    "tipoProduct": "bolsa",
+    "segmentos": [
+      "corporativo",
+      "formaturas"
+    ]
   },
   {
     "id": "sacola-plastica-20x30",
@@ -4163,7 +4611,11 @@
     "observacoes": [
       "ACIMA DE 300 UNID 2,99 CADA"
     ],
-    "tipoProduct": "bolsa"
+    "tipoProduct": "bolsa",
+    "segmentos": [
+      "corporativo",
+      "formaturas"
+    ]
   },
   {
     "id": "sacola-plastica-30x40",
@@ -4189,7 +4641,11 @@
     "observacoes": [
       "ACIMA DE 300 UNID 3,49 CADA"
     ],
-    "tipoProduct": "bolsa"
+    "tipoProduct": "bolsa",
+    "segmentos": [
+      "corporativo",
+      "formaturas"
+    ]
   },
   {
     "id": "sacola-plastica-40x50",
@@ -4212,7 +4668,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "bolsa"
+    "tipoProduct": "bolsa",
+    "segmentos": [
+      "corporativo",
+      "formaturas"
+    ]
   },
   {
     "id": "sacola-preta-papel-formatura",
@@ -4241,7 +4701,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "bolsa"
+    "tipoProduct": "bolsa",
+    "segmentos": [
+      "corporativo",
+      "formaturas"
+    ]
   },
   {
     "id": "sacola-pvc-transparente",
@@ -4270,7 +4734,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "bolsa"
+    "tipoProduct": "bolsa",
+    "segmentos": [
+      "corporativo",
+      "formaturas"
+    ]
   },
   {
     "id": "sacola-tnt-metalizado-20x25",
@@ -4299,7 +4767,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "bolsa"
+    "tipoProduct": "bolsa",
+    "segmentos": [
+      "corporativo",
+      "formaturas"
+    ]
   },
   {
     "id": "sacola-tnt-metalizado-40x50",
@@ -4328,7 +4800,11 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "bolsa"
+    "tipoProduct": "bolsa",
+    "segmentos": [
+      "corporativo",
+      "formaturas"
+    ]
   },
   {
     "id": "toalha-lavabo-25x38",
@@ -4357,6 +4833,9 @@
       "elegivelDescontoVolume": false,
       "linhaAcqua": false
     },
-    "tipoProduct": "outros"
+    "tipoProduct": "outros",
+    "segmentos": [
+      "geral"
+    ]
   }
 ]

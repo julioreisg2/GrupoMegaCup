@@ -13,15 +13,14 @@ export const metadata: Metadata = {
 };
 
 interface CatalogoPageProps {
-  searchParams: Promise<{ q?: string; tipo?: string; destaque?: string; lancamento?: string }>;
+  searchParams: Promise<{ q?: string; tipo?: string; segmento?: string }>;
 }
 
 function filter(products: CatalogProduct[], p: Awaited<CatalogoPageProps["searchParams"]>): CatalogProduct[] {
   let r = products;
   if (p.q) { const q = p.q.toLowerCase(); r = r.filter((x) => x.nome.toLowerCase().includes(q) || x.subcategoria.toLowerCase().includes(q)); }
   if (p.tipo) r = r.filter((x) => (x as any).tipoProduct === p.tipo);
-  if (p.destaque  === "true") r = r.filter((x) => x.destaque);
-  if (p.lancamento === "true") r = r.filter((x) => x.lancamento);
+  if (p.segmento) r = r.filter((x) => (x as any).segmentos?.includes(p.segmento));
   return r;
 }
 
@@ -40,7 +39,7 @@ export default async function CatalogoPage({ searchParams }: CatalogoPageProps) 
   const params   = await searchParams;
   const all      = getCatalog();
   const filtered = filter(all, params);
-  const hasFilters = !!(params.q || params.tipo || params.destaque || params.lancamento);
+  const hasFilters = !!(params.q || params.tipo || params.segmento);
   const tipoLabel = params.tipo ? TIPO_LABELS[params.tipo] : undefined;
 
   return (
@@ -73,6 +72,7 @@ export default async function CatalogoPage({ searchParams }: CatalogoPageProps) 
 
             <form method="GET" action="/catalogo" className="flex gap-2 w-full sm:w-auto sm:min-w-[300px]">
               {params.tipo && <input type="hidden" name="tipo" value={params.tipo} />}
+              {params.segmento && <input type="hidden" name="segmento" value={params.segmento} />}
               <div className="relative flex-1">
                 <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4" style={{ color: "var(--text-soft)" }} aria-hidden="true" />
                 <input
