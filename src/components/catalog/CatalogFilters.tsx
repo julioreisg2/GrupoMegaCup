@@ -5,28 +5,30 @@ import { useCallback } from "react";
 import { X } from "lucide-react";
 
 const categorias = [
-  { value: "",             label: "Todas as categorias" },
+  { value: "",              label: "Todas as categorias" },
   { value: "acrilicos",    label: "Acrílicos e Similares" },
   { value: "porcelana_vidro", label: "Porcelana e Vidro" },
   { value: "diverso",      label: "Itens Diversos" },
   { value: "termicos",     label: "Térmicos" },
 ];
 
-const materiais = [
-  { value: "", label: "Todos os materiais" },
-  { value: "acrilico", label: "Acrílico" },
-  { value: "aluminio", label: "Alumínio" },
-  { value: "porcelana", label: "Porcelana" },
-  { value: "vidro", label: "Vidro" },
-  { value: "termico", label: "Térmico" },
-  { value: "diverso", label: "Outros" },
+const tipos = [
+  { value: "",        label: "Todos os tipos" },
+  { value: "copo",    label: "Copos" },
+  { value: "caneca",  label: "Canecas" },
+  { value: "taca",    label: "Taças" },
+  { value: "garrafa", label: "Garrafas" },
+  { value: "kit",     label: "Kits" },
+  { value: "roupa",   label: "Roupas e Vestuário" },
+  { value: "bolsa",   label: "Bolsas e Sacolas" },
+  { value: "outros",  label: "Outros" },
 ];
 
 function FilterItem({ active, onClick, children }: { active: boolean; onClick: () => void; children: React.ReactNode }) {
   return (
     <button
       onClick={onClick}
-      className="w-full text-left px-3 py-2.5 rounded-xl text-sm font-medium transition-all duration-150"
+      className="w-full text-left px-3 py-2.5 rounded-xl text-sm transition-all duration-150"
       style={{
         backgroundColor: active ? "var(--lime)" : "transparent",
         color: active ? "var(--lime-dark)" : "var(--text-muted)",
@@ -53,9 +55,9 @@ export function CatalogFilters() {
     [router, params]
   );
 
-  const hasFilters = !!params.get("categoria") || !!params.get("material") || !!params.get("q");
+  const hasFilters = !!params.get("categoria") || !!params.get("tipo") || !!params.get("q");
   const activeCategoria = params.get("categoria") ?? "";
-  const activeMaterial  = params.get("material")  ?? "";
+  const activeTipo = params.get("tipo") ?? "";
 
   return (
     <aside className="w-full lg:w-60 flex-shrink-0">
@@ -73,11 +75,12 @@ export function CatalogFilters() {
               className="flex items-center gap-1 text-xs transition-colors hover:text-red-400"
               style={{ color: "var(--text-soft)" }}
             >
-              <X className="w-3.5 h-3.5" aria-hidden="true" /> Limpar
+              <X className="w-3.5 h-3.5" /> Limpar
             </button>
           )}
         </div>
 
+        {/* Categoria */}
         <div className="mb-5">
           <p className="text-[10px] font-bold uppercase tracking-widest mb-2" style={{ color: "var(--text-soft)" }}>
             Categoria
@@ -91,19 +94,21 @@ export function CatalogFilters() {
           </div>
         </div>
 
+        {/* Tipo de Produto */}
         <div className="mb-5">
           <p className="text-[10px] font-bold uppercase tracking-widest mb-2" style={{ color: "var(--text-soft)" }}>
-            Material
+            Tipo de Produto
           </p>
           <div className="flex flex-col gap-0.5">
-            {materiais.map((m) => (
-              <FilterItem key={m.value} active={activeMaterial === m.value} onClick={() => update("material", m.value)}>
-                {m.label}
+            {tipos.map((t) => (
+              <FilterItem key={t.value} active={activeTipo === t.value} onClick={() => update("tipo", t.value)}>
+                {t.label}
               </FilterItem>
             ))}
           </div>
         </div>
 
+        {/* Selos */}
         <div>
           <p className="text-[10px] font-bold uppercase tracking-widest mb-2" style={{ color: "var(--text-soft)" }}>
             Selos
