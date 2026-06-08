@@ -6,14 +6,14 @@ import { X } from "lucide-react";
 
 const tipos = [
   { value: "",        label: "Todos os produtos" },
-  { value: "copo",    label: "🥤 Copos" },
-  { value: "caneca",  label: "☕ Canecas" },
-  { value: "taca",    label: "🍷 Taças" },
-  { value: "garrafa", label: "🫗 Garrafas" },
-  { value: "kit",     label: "🎁 Kits" },
-  { value: "roupa",   label: "👕 Roupas e Vestuário" },
-  { value: "bolsa",   label: "👜 Bolsas e Sacolas" },
-  { value: "outros",  label: "📦 Outros Produtos" },
+  { value: "copo",    label: "Copos" },
+  { value: "caneca",  label: "Canecas" },
+  { value: "taca",    label: "Taças" },
+  { value: "garrafa", label: "Garrafas" },
+  { value: "kit",     label: "Kits" },
+  { value: "roupa",   label: "Roupas e Vestuário" },
+  { value: "bolsa",   label: "Bolsas e Sacolas" },
+  { value: "outros",  label: "Outros" },
 ];
 
 function FilterItem({ active, onClick, children }: { active: boolean; onClick: () => void; children: React.ReactNode }) {
@@ -92,8 +92,8 @@ export function CatalogFilters() {
           </p>
           <div className="flex flex-col gap-0.5">
             {[
-              { key: "destaque", label: "⭐ Destaques" },
-              { key: "lancamento", label: "🆕 Lançamentos" },
+              { key: "destaque", label: "Destaques" },
+              { key: "lancamento", label: "Lançamentos" },
             ].map(({ key, label }) => (
               <FilterItem
                 key={key}

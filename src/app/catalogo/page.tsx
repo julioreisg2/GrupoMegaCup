@@ -26,14 +26,14 @@ function filter(products: CatalogProduct[], p: Awaited<CatalogoPageProps["search
 }
 
 const TIPO_LABELS: Record<string, string> = {
-  copo:    "🥤 Copos",
-  caneca:  "☕ Canecas",
-  taca:    "🍷 Taças",
-  garrafa: "🫗 Garrafas",
-  kit:     "🎁 Kits",
-  roupa:   "👕 Roupas e Vestuário",
-  bolsa:   "👜 Bolsas e Sacolas",
-  outros:  "📦 Outros Produtos",
+  copo:    "Copos",
+  caneca:  "Canecas",
+  taca:    "Taças",
+  garrafa: "Garrafas",
+  kit:     "Kits",
+  roupa:   "Roupas e Vestuário",
+  bolsa:   "Bolsas e Sacolas",
+  outros:  "Outros",
 };
 
 export default async function CatalogoPage({ searchParams }: CatalogoPageProps) {
