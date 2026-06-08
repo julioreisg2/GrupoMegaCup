@@ -27,9 +27,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "copo",
-    "segmentos": [
-      "aniversario"
-    ]
+    "segmentos": []
   },
   {
     "id": "caneca-700ml",
@@ -63,10 +61,7 @@
     ],
     "imagem": "/products/copo-whisky-preto-garrafa.jpg",
     "tipoProduct": "caneca",
-    "segmentos": [
-      "aniversario",
-      "formaturas"
-    ]
+    "segmentos": []
   },
   {
     "id": "copo-cuia-alca-350ml",
@@ -192,9 +187,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "copo",
-    "segmentos": [
-      "aniversario"
-    ]
+    "segmentos": []
   },
   {
     "id": "copo-mini-big-410ml",
@@ -274,7 +267,7 @@
     },
     "tipoProduct": "copo",
     "segmentos": [
-      "aniversario"
+      "corporativo"
     ]
   },
   {
@@ -338,8 +331,7 @@
     },
     "tipoProduct": "garrafa",
     "segmentos": [
-      "corporativo",
-      "casamento"
+      "corporativo"
     ]
   },
   {
@@ -371,8 +363,7 @@
     },
     "tipoProduct": "garrafa",
     "segmentos": [
-      "corporativo",
-      "casamento"
+      "corporativo"
     ]
   },
   {
@@ -404,8 +395,7 @@
     },
     "tipoProduct": "garrafa",
     "segmentos": [
-      "corporativo",
-      "casamento"
+      "corporativo"
     ]
   },
   {
@@ -437,8 +427,7 @@
     },
     "tipoProduct": "garrafa",
     "segmentos": [
-      "corporativo",
-      "casamento"
+      "corporativo"
     ]
   },
   {
@@ -470,8 +459,7 @@
     },
     "tipoProduct": "garrafa",
     "segmentos": [
-      "corporativo",
-      "casamento"
+      "corporativo"
     ]
   },
   {
@@ -503,8 +491,7 @@
     },
     "tipoProduct": "garrafa",
     "segmentos": [
-      "corporativo",
-      "casamento"
+      "corporativo"
     ]
   },
   {
@@ -535,10 +522,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "garrafa",
-    "segmentos": [
-      "corporativo",
-      "casamento"
-    ]
+    "segmentos": []
   },
   {
     "id": "garrafa-termica-infantil-350ml-alca-tampa-bolinha",
@@ -568,10 +552,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "garrafa",
-    "segmentos": [
-      "corporativo",
-      "casamento"
-    ]
+    "segmentos": []
   },
   {
     "id": "garrafa-termica-infantil-350ml-click-bloco-retratil",
@@ -601,10 +582,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "garrafa",
-    "segmentos": [
-      "corporativo",
-      "casamento"
-    ]
+    "segmentos": []
   },
   {
     "id": "garrafa-termica-infantil-400ml-pra-laser",
@@ -634,10 +612,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "garrafa",
-    "segmentos": [
-      "corporativo",
-      "casamento"
-    ]
+    "segmentos": []
   },
   {
     "id": "garrafa-termica-infantil-500ml-alca-flip",
@@ -667,10 +642,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "garrafa",
-    "segmentos": [
-      "corporativo",
-      "casamento"
-    ]
+    "segmentos": []
   },
   {
     "id": "copo-long-drink-330ml",
@@ -754,6 +726,7 @@
     ],
     "tipoProduct": "copo",
     "segmentos": [
+      "corporativo",
       "aniversario"
     ]
   },
@@ -804,7 +777,7 @@
     ],
     "tipoProduct": "copo",
     "segmentos": [
-      "aniversario"
+      "corporativo"
     ]
   },
   {
@@ -875,8 +848,7 @@
     ],
     "tipoProduct": "caneca",
     "segmentos": [
-      "aniversario",
-      "formaturas"
+      "aniversario"
     ]
   },
   {
@@ -909,8 +881,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "aniversario",
-      "formaturas"
+      "aniversario"
     ]
   },
   {
@@ -970,8 +941,7 @@
     ],
     "tipoProduct": "caneca",
     "segmentos": [
-      "aniversario",
-      "formaturas"
+      "aniversario"
     ]
   },
   {
@@ -1421,9 +1391,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "taca",
-    "segmentos": [
-      "casamento"
-    ]
+    "segmentos": []
   },
   {
     "id": "taca-vinho-350ml",
@@ -1620,10 +1588,7 @@
       "/products/garrafa-agua-cor-basica-39.jpg"
     ],
     "tipoProduct": "garrafa",
-    "segmentos": [
-      "corporativo",
-      "casamento"
-    ]
+    "segmentos": []
   },
   {
     "id": "garrafa-agua-metalizado",
@@ -1654,10 +1619,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "garrafa",
-    "segmentos": [
-      "corporativo",
-      "casamento"
-    ]
+    "segmentos": []
   },
   {
     "id": "garrafas-cetim-personalizado-brilho-4cm",
@@ -1688,10 +1650,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "garrafa",
-    "segmentos": [
-      "corporativo",
-      "casamento"
-    ]
+    "segmentos": []
   },
   {
     "id": "caneca-aluminio-500-850ml-silk-frente-verso-cor-unica",
@@ -1723,8 +1682,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "aniversario",
-      "formaturas"
+      "aniversario"
     ]
   },
   {
@@ -1757,8 +1715,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "aniversario",
-      "formaturas"
+      "aniversario"
     ]
   },
   {
@@ -1791,8 +1748,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "aniversario",
-      "formaturas"
+      "aniversario"
     ]
   },
   {
@@ -1825,7 +1781,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "aniversario"
     ]
   },
   {
@@ -1858,7 +1814,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "aniversario"
     ]
   },
   {
@@ -1889,9 +1845,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "kit-eco250-400-mochila-oxford-20x30-branca",
@@ -1923,7 +1877,6 @@
     },
     "tipoProduct": "kit",
     "segmentos": [
-      "corporativo",
       "aniversario"
     ]
   },
@@ -1957,7 +1910,6 @@
     },
     "tipoProduct": "kit",
     "segmentos": [
-      "corporativo",
       "aniversario"
     ]
   },
@@ -2108,7 +2060,7 @@
     "tipoProduct": "caneca",
     "segmentos": [
       "casamento",
-      "aniversario"
+      "corporativo"
     ]
   },
   {
@@ -2140,8 +2092,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2173,8 +2124,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2206,8 +2156,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2239,8 +2188,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2305,8 +2253,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2338,8 +2285,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2404,8 +2350,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2437,8 +2382,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2470,8 +2414,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2503,8 +2446,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2536,8 +2478,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2569,8 +2510,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2602,8 +2542,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2635,8 +2574,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2668,8 +2606,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2701,8 +2638,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2734,8 +2670,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2767,8 +2702,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "casamento",
-      "aniversario"
+      "casamento"
     ]
   },
   {
@@ -2800,8 +2734,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "aniversario",
-      "formaturas"
+      "casamento"
     ]
   },
   {
@@ -2833,7 +2766,6 @@
     },
     "tipoProduct": "garrafa",
     "segmentos": [
-      "corporativo",
       "casamento"
     ]
   },
@@ -2866,8 +2798,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "aniversario",
-      "formaturas"
+      "casamento"
     ]
   },
   {
@@ -2899,8 +2830,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "aniversario",
-      "formaturas"
+      "casamento"
     ]
   },
   {
@@ -3037,9 +2967,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "copo",
-    "segmentos": [
-      "aniversario"
-    ]
+    "segmentos": []
   },
   {
     "id": "caneca-plastica-foto-papel",
@@ -3070,8 +2998,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "aniversario",
-      "formaturas"
+      "aniversario"
     ]
   },
   {
@@ -3103,7 +3030,6 @@
     },
     "tipoProduct": "kit",
     "segmentos": [
-      "corporativo",
       "aniversario"
     ]
   },
@@ -3135,9 +3061,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "avental-preto-oxford",
@@ -3167,9 +3091,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "roupa",
-    "segmentos": [
-      "formaturas"
-    ]
+    "segmentos": []
   },
   {
     "id": "azulejo-15x15",
@@ -3199,9 +3121,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "azulejo-20x20",
@@ -3231,9 +3151,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "azulejo-20x20-relogio",
@@ -3263,9 +3181,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "body-bebe-branco",
@@ -3360,7 +3276,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "formaturas"
     ]
   },
   {
@@ -3391,9 +3307,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "camiseta-branca-poliester",
@@ -3424,6 +3338,7 @@
     },
     "tipoProduct": "roupa",
     "segmentos": [
+      "corporativo",
       "formaturas"
     ]
   },
@@ -3456,6 +3371,7 @@
     },
     "tipoProduct": "roupa",
     "segmentos": [
+      "corporativo",
       "formaturas"
     ]
   },
@@ -3488,6 +3404,7 @@
     },
     "tipoProduct": "roupa",
     "segmentos": [
+      "corporativo",
       "formaturas"
     ]
   },
@@ -3519,10 +3436,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "caneca",
-    "segmentos": [
-      "aniversario",
-      "formaturas"
-    ]
+    "segmentos": []
   },
   {
     "id": "caneca-inox-branca-220ml",
@@ -3553,8 +3467,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "aniversario",
-      "formaturas"
+      "corporativo"
     ]
   },
   {
@@ -3586,8 +3499,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "aniversario",
-      "formaturas"
+      "corporativo"
     ]
   },
   {
@@ -3619,8 +3531,7 @@
     },
     "tipoProduct": "caneca",
     "segmentos": [
-      "aniversario",
-      "formaturas"
+      "corporativo"
     ]
   },
   {
@@ -3652,7 +3563,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "corporativo"
     ]
   },
   {
@@ -3684,7 +3595,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "corporativo"
     ]
   },
   {
@@ -3716,7 +3627,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "corporativo"
     ]
   },
   {
@@ -3748,7 +3659,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "formaturas"
     ]
   },
   {
@@ -3780,7 +3691,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "corporativo"
     ]
   },
   {
@@ -3812,7 +3723,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "corporativo"
     ]
   },
   {
@@ -3844,7 +3755,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "formaturas"
     ]
   },
   {
@@ -3907,9 +3818,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "copo-terere-330ml-ecologico",
@@ -3939,9 +3848,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "copo",
-    "segmentos": [
-      "aniversario"
-    ]
+    "segmentos": []
   },
   {
     "id": "cuca-personalizada",
@@ -3971,9 +3878,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "espelho-escova",
@@ -4003,9 +3908,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "espelho-quadrado",
@@ -4035,9 +3938,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "estojo-tecido-sublimacao",
@@ -4067,9 +3968,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "garrafa-nao-termica-aluminio-nike-600ml",
@@ -4099,10 +3998,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "garrafa",
-    "segmentos": [
-      "corporativo",
-      "casamento"
-    ]
+    "segmentos": []
   },
   {
     "id": "kit-churrasco-completo",
@@ -4133,8 +4029,7 @@
     },
     "tipoProduct": "kit",
     "segmentos": [
-      "corporativo",
-      "aniversario"
+      "corporativo"
     ]
   },
   {
@@ -4166,8 +4061,7 @@
     },
     "tipoProduct": "kit",
     "segmentos": [
-      "corporativo",
-      "aniversario"
+      "corporativo"
     ]
   },
   {
@@ -4198,9 +4092,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "mini-porta-joias",
@@ -4230,9 +4122,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "mochila-costas-branca-19x35",
@@ -4263,7 +4153,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "formaturas"
     ]
   },
   {
@@ -4295,7 +4185,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "formaturas"
     ]
   },
   {
@@ -4327,7 +4217,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "formaturas"
     ]
   },
   {
@@ -4358,9 +4248,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "mouse-pad-quadrado",
@@ -4390,9 +4278,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "necessaire-plastica-basica",
@@ -4423,7 +4309,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "formaturas"
     ]
   },
   {
@@ -4455,7 +4341,7 @@
     },
     "tipoProduct": "outros",
     "segmentos": [
-      "geral"
+      "formaturas"
     ]
   },
   {
@@ -4486,9 +4372,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "pulseiras-eventos",
@@ -4518,9 +4402,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "quadro-mdf-vidro-21x30",
@@ -4550,9 +4432,7 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   },
   {
     "id": "sacola-oxford-30x40",
@@ -4583,7 +4463,6 @@
     },
     "tipoProduct": "bolsa",
     "segmentos": [
-      "corporativo",
       "formaturas"
     ]
   },
@@ -4613,7 +4492,6 @@
     ],
     "tipoProduct": "bolsa",
     "segmentos": [
-      "corporativo",
       "formaturas"
     ]
   },
@@ -4643,7 +4521,6 @@
     ],
     "tipoProduct": "bolsa",
     "segmentos": [
-      "corporativo",
       "formaturas"
     ]
   },
@@ -4670,7 +4547,6 @@
     },
     "tipoProduct": "bolsa",
     "segmentos": [
-      "corporativo",
       "formaturas"
     ]
   },
@@ -4703,7 +4579,6 @@
     },
     "tipoProduct": "bolsa",
     "segmentos": [
-      "corporativo",
       "formaturas"
     ]
   },
@@ -4736,7 +4611,6 @@
     },
     "tipoProduct": "bolsa",
     "segmentos": [
-      "corporativo",
       "formaturas"
     ]
   },
@@ -4769,7 +4643,6 @@
     },
     "tipoProduct": "bolsa",
     "segmentos": [
-      "corporativo",
       "formaturas"
     ]
   },
@@ -4802,7 +4675,6 @@
     },
     "tipoProduct": "bolsa",
     "segmentos": [
-      "corporativo",
       "formaturas"
     ]
   },
@@ -4834,8 +4706,6 @@
       "linhaAcqua": false
     },
     "tipoProduct": "outros",
-    "segmentos": [
-      "geral"
-    ]
+    "segmentos": []
   }
 ]
