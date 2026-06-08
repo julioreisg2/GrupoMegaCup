@@ -4,10 +4,10 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 
 const categories = [
-  { slug: "acrilicos_aluminio_similares", label: "Acrílicos e Similares", desc: "Long drinks, canecas, taças e copos infantis.", icon: "🥤", accent: "var(--cyan)" },
-  { slug: "porcelana_vidro",              label: "Porcelana e Vidro",      desc: "Canecas de porcelana, taças de vinho e champanhe.", icon: "🍷", accent: "var(--lime)" },
-  { slug: "itens_diversos",              label: "Itens Diversos",          desc: "Sacolas, kits, squeezes e outros personalizados.", icon: "🎁", accent: "var(--cyan)" },
-  { slug: "termicos",                    label: "Térmicos",                desc: "Garrafas e copos com gravação a laser.", icon: "🫗", accent: "var(--lime)" },
+  { slug: "acrilicos",      label: "Acrílicos e Similares", desc: "Long drinks, canecas, taças e copos infantis.", icon: "🥤", accent: "var(--cyan)" },
+  { slug: "porcelana_vidro", label: "Porcelana e Vidro",    desc: "Canecas de porcelana, taças de vinho e champanhe.", icon: "🍷", accent: "var(--lime)" },
+  { slug: "diverso",        label: "Itens Diversos",        desc: "Sacolas, kits, squeezes e outros personalizados.", icon: "🎁", accent: "var(--cyan)" },
+  { slug: "termicos",       label: "Térmicos",              desc: "Garrafas e copos com gravação a laser.", icon: "🫗", accent: "var(--lime)" },
 ];
 
 export function Categories() {

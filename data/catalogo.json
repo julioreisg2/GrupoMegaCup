@@ -312,7 +312,7 @@
     "priceTable": {
       "faixa1a5": 49.9,
       "faixa6a10": 44.9,
-      "faixa20": 49.9,
+      "faixa20": 39.9,
       "faixa30a40": 37.9,
       "faixa50": 34.9,
       "faixa60a80": 32.9,
@@ -588,16 +588,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
+      "base100": 2.69,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1,
+      "faixa20": 2,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 1,
-      "faixa100": 0,
-      "faixa300": -0.3
+      "faixa2a5": 10,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -669,16 +669,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 25,
-      "faixa1a5": 15,
+      "base100": 4.49,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1,
+      "faixa20": 2,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 3,
-      "faixa50": 5,
-      "faixa100": 10,
-      "faixa300": -0.3
+      "faixa2a5": 10,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -715,16 +715,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Canecas",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
+      "base100": 3.49,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1,
+      "faixa20": 2,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 10,
-      "faixa300": -0.3
+      "faixa2a5": 10,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -782,16 +782,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Canecas",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 25,
-      "faixa1a5": 15,
+      "base100": 7.99,
+      "faixa60a80": 0.5,
+      "faixa50": 1,
+      "faixa30a40": 2,
+      "faixa20": 3,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 3,
-      "faixa50": 5,
-      "faixa100": 25,
-      "faixa300": -0.3
+      "faixa2a5": 10,
+      "faixa1un": 25
     },
     "regras": {
       "permiteDegrade": true,
@@ -811,16 +811,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Canecas",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
+      "base100": 3.29,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1,
+      "faixa20": 2,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 15,
-      "faixa300": -0.3
+      "faixa2a5": null,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -867,16 +867,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
+      "base100": 2.99,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1,
+      "faixa20": 2,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 15,
-      "faixa300": -0.3
+      "faixa2a5": 10,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -914,16 +914,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 25,
-      "faixa1a5": 15,
+      "base100": 7.99,
+      "faixa60a80": 0.5,
+      "faixa50": 1,
+      "faixa30a40": 2,
+      "faixa20": 3,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 3,
-      "faixa50": 5,
-      "faixa100": 25,
-      "faixa300": -0.3
+      "faixa2a5": 10,
+      "faixa1un": 25
     },
     "regras": {
       "permiteDegrade": true,
@@ -983,16 +983,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
+      "base100": 3.99,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1,
+      "faixa20": 2,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 15,
-      "faixa300": -0.3
+      "faixa2a5": 10,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -1030,16 +1030,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
+      "base100": 4.29,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1,
+      "faixa20": 2,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 10,
-      "faixa300": -0.3
+      "faixa2a5": 10,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -1059,16 +1059,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
+      "base100": 2.99,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1,
+      "faixa20": 2,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 15,
-      "faixa300": -0.3
+      "faixa2a5": 10,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -1088,16 +1088,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
+      "base100": 3.99,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1,
+      "faixa20": 2,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 15,
-      "faixa300": -0.3
+      "faixa2a5": 10,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -1117,16 +1117,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
-      "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 15,
-      "faixa300": -0.3
+      "base100": 3.99,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1.5,
+      "faixa20": 2.5,
+      "faixa6a10": 6,
+      "faixa2a5": 10,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -1146,16 +1146,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
-      "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 15,
-      "faixa300": -0.3
+      "base100": 3.99,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1.5,
+      "faixa20": 2.5,
+      "faixa6a10": 6,
+      "faixa2a5": 10,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -1175,16 +1175,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
-      "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 20,
-      "faixa300": -0.3
+      "base100": 5.49,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1.5,
+      "faixa20": 2.5,
+      "faixa6a10": 6,
+      "faixa2a5": 10,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -1204,16 +1204,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "TaÃ§as",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
-      "faixa6a10": 5,
-      "faixa20": 5,
+      "base100": 6.99,
+      "faixa60a80": 0.5,
+      "faixa50": 1,
       "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 15,
-      "faixa300": -0.3
+      "faixa20": 3,
+      "faixa6a10": 5,
+      "faixa2a5": 10,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -1274,16 +1274,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "TaÃ§as",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
-      "faixa6a10": 5,
-      "faixa20": 5,
+      "base100": 3.99,
+      "faixa60a80": 0.5,
+      "faixa50": 1,
       "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 15,
-      "faixa300": -0.3
+      "faixa20": 3,
+      "faixa6a10": 10,
+      "faixa2a5": 15,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -1308,16 +1308,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "TaÃ§as",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
-      "faixa6a10": 5,
-      "faixa20": 5,
+      "base100": 4.49,
+      "faixa60a80": 0.5,
+      "faixa50": 1,
       "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 15,
-      "faixa300": -0.3
+      "faixa20": 3,
+      "faixa6a10": 10,
+      "faixa2a5": 15,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -1357,16 +1357,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "TaÃ§as",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 25,
-      "faixa1a5": 15,
-      "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 3,
-      "faixa50": 5,
-      "faixa100": 25,
-      "faixa300": -0.3
+      "base100": 8.99,
+      "faixa60a80": 0.5,
+      "faixa50": 1,
+      "faixa30a40": 2,
+      "faixa20": 3,
+      "faixa6a10": 10,
+      "faixa2a5": 15,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -1747,16 +1747,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 15,
-      "faixa1a5": 10,
+      "base100": 3.29,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1,
+      "faixa20": 2,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 15,
-      "faixa300": -0.3
+      "faixa2a5": 10,
+      "faixa1un": 15
     },
     "regras": {
       "permiteDegrade": true,
@@ -1785,16 +1785,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 10,
-      "faixa1a5": 10,
+      "base100": 1.99,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1,
+      "faixa20": 2,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 10,
-      "faixa300": -0.3
+      "faixa2a5": 10,
+      "faixa1un": 10
     },
     "regras": {
       "permiteDegrade": true,
@@ -1814,16 +1814,16 @@
     "categoriaDisplay": "AcrÃ­licos",
     "subcategoria": "Copos",
     "material": "acrilico",
-    "priceModel": "direct_tier_price",
+    "priceModel": "base_plus_tier_delta",
     "priceTable": {
-      "faixa1un": 10,
-      "faixa1a5": 10,
+      "base100": 3.29,
+      "faixa60a80": 0.3,
+      "faixa50": 0.5,
+      "faixa30a40": 1,
+      "faixa20": 2,
       "faixa6a10": 5,
-      "faixa20": 5,
-      "faixa30a40": 2,
-      "faixa50": 5,
-      "faixa100": 10,
-      "faixa300": -0.3
+      "faixa2a5": 10,
+      "faixa1un": 10
     },
     "regras": {
       "permiteDegrade": true,
@@ -2028,7 +2028,7 @@
       "faixa30a40": 28.9,
       "faixa50": 26.9,
       "faixa60a80": 24.9,
-      "faixa100": 24.9
+      "faixa100": 22.9
     },
     "regras": {
       "permiteDegrade": false,
@@ -2112,7 +2112,7 @@
       "faixa30a40": 28.9,
       "faixa50": 26.9,
       "faixa60a80": 24.9,
-      "faixa100": 24.9
+      "faixa100": 22.9
     },
     "regras": {
       "permiteDegrade": false,
@@ -2136,11 +2136,11 @@
     "priceTable": {
       "faixa1a5": 39.9,
       "faixa6a10": 34.9,
-      "faixa20": 33.9,
-      "faixa30a40": 30.9,
-      "faixa50": 28.9,
-      "faixa60a80": 26.9,
-      "faixa100": 24.9
+      "faixa20": 31.9,
+      "faixa30a40": 28.9,
+      "faixa50": 26.9,
+      "faixa60a80": 24.9,
+      "faixa100": 22.9
     },
     "regras": {
       "permiteDegrade": false,
@@ -2222,9 +2222,9 @@
       "faixa6a10": 36.9,
       "faixa20": 33.9,
       "faixa30a40": 30.9,
-      "faixa50": 29.9,
+      "faixa50": 28.9,
       "faixa60a80": 26.9,
-      "faixa100": 25.9
+      "faixa100": 24.9
     },
     "regras": {
       "permiteDegrade": false,
@@ -2252,7 +2252,7 @@
       "faixa30a40": 30.9,
       "faixa50": 28.9,
       "faixa60a80": 26.9,
-      "faixa100": 25.9
+      "faixa100": 24.9
     },
     "regras": {
       "permiteDegrade": false,
@@ -2280,7 +2280,7 @@
       "faixa30a40": 30.9,
       "faixa50": 28.9,
       "faixa60a80": 26.9,
-      "faixa100": 25.9
+      "faixa100": 24.9
     },
     "regras": {
       "permiteDegrade": false,
@@ -2334,9 +2334,9 @@
       "faixa6a10": 64.9,
       "faixa20": 61.9,
       "faixa30a40": 58.9,
-      "faixa50": 55.9,
-      "faixa60a80": 50.9,
-      "faixa100": 47.9
+      "faixa50": 55,
+      "faixa60a80": 50,
+      "faixa100": 47
     },
     "regras": {
       "permiteDegrade": false,
@@ -2362,9 +2362,9 @@
       "faixa6a10": 114.9,
       "faixa20": 111.9,
       "faixa30a40": 108.9,
-      "faixa50": 99.9,
-      "faixa60a80": 95.9,
-      "faixa100": 90.9
+      "faixa50": 99,
+      "faixa60a80": 95,
+      "faixa100": 90
     },
     "regras": {
       "permiteDegrade": false,
@@ -2764,7 +2764,7 @@
       "faixa6a10": 36.9,
       "faixa20": 33.9,
       "faixa30a40": 30.9,
-      "faixa50": 21.9,
+      "faixa50": 26.9,
       "faixa60a80": 21.9,
       "faixa100": 19.9
     },
@@ -2816,13 +2816,13 @@
     "material": "diverso",
     "priceModel": "direct_tier_price",
     "priceTable": {
-      "faixa1a5": 39.9,
-      "faixa6a10": 36.9,
-      "faixa20": 33.9,
-      "faixa30a40": 29.9,
-      "faixa50": 27.9,
-      "faixa60a80": 25.9,
-      "faixa100": 23.9
+      "faixa1a5": 49.9,
+      "faixa6a10": 46.9,
+      "faixa20": 43.9,
+      "faixa30a40": 39.9,
+      "faixa50": 37.9,
+      "faixa60a80": 35.9,
+      "faixa100": 33.9
     },
     "regras": {
       "permiteDegrade": false,
@@ -2960,7 +2960,7 @@
       "faixa6a10": 27.9,
       "faixa20": 25.9,
       "faixa30a40": 23.9,
-      "faixa50": 19.9,
+      "faixa50": 21.9,
       "faixa60a80": 19.9,
       "faixa100": 18.9
     },
@@ -3268,7 +3268,7 @@
       "faixa6a10": 7.99,
       "faixa20": 6.99,
       "faixa30a40": 5.99,
-      "faixa50": 4.49,
+      "faixa50": 4.99,
       "faixa60a80": 3.99,
       "faixa100": 3.49
     },

@@ -6,10 +6,16 @@ import { precoAPartirDe } from "@/lib/pricing/engine";
 import type { CatalogProduct } from "@/lib/pricing/types";
 import { cn } from "@/lib/utils";
 
-const EMOJI: Record<string, string> = {
-  acrilico: "🥤", aluminio: "🪣", porcelana: "☕",
-  vidro: "🍷", termico: "🫗", diverso: "🎁",
-  misto: "🥤", a_confirmar: "📦",
+// SVG ilustrativo por material - mais visual que emoji padrão
+const PLACEHOLDER_SVG: Record<string, string> = {
+  acrilico: `<svg viewBox="0 0 80 100" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="20" y="10" width="40" height="75" rx="6" fill="rgba(0,213,255,0.15)" stroke="rgba(0,213,255,0.4)" stroke-width="2"/><rect x="24" y="14" width="32" height="67" rx="4" fill="rgba(0,213,255,0.08)"/><path d="M28 30 Q40 25 52 30" stroke="rgba(0,213,255,0.5)" stroke-width="1.5" fill="none"/><text x="40" y="58" text-anchor="middle" font-size="11" fill="rgba(255,255,255,0.5)" font-family="sans-serif">COPO</text></svg>`,
+  aluminio: `<svg viewBox="0 0 80 100" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="18" y="15" width="44" height="70" rx="5" fill="rgba(150,150,160,0.2)" stroke="rgba(200,200,210,0.4)" stroke-width="2"/><rect x="18" y="15" width="44" height="12" rx="5" fill="rgba(200,200,210,0.3)"/><path d="M25 27 H55" stroke="rgba(200,200,210,0.3)" stroke-width="1"/><text x="40" y="62" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.5)" font-family="sans-serif">CANECA</text></svg>`,
+  porcelana: `<svg viewBox="0 0 80 100" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M22 35 Q20 65 25 80 H55 Q60 65 58 35 Z" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.3)" stroke-width="2"/><path d="M56 45 Q68 45 68 55 Q68 65 56 65" stroke="rgba(255,255,255,0.3)" stroke-width="2" fill="none"/><ellipse cx="40" cy="35" rx="18" ry="5" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.3)" stroke-width="1.5"/><text x="40" y="62" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)" font-family="sans-serif">CANECA</text></svg>`,
+  vidro: `<svg viewBox="0 0 80 100" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M25 20 L20 85 H60 L55 20 Z" fill="rgba(100,220,150,0.1)" stroke="rgba(100,220,150,0.35)" stroke-width="2"/><path d="M27 28 L53 28" stroke="rgba(100,220,150,0.25)" stroke-width="1"/><path d="M25 20 L55 20" stroke="rgba(100,220,150,0.4)" stroke-width="2"/><text x="40" y="62" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)" font-family="sans-serif">TAÇA</text></svg>`,
+  termico: `<svg viewBox="0 0 80 100" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="22" y="12" width="36" height="76" rx="8" fill="rgba(182,255,0,0.1)" stroke="rgba(182,255,0,0.35)" stroke-width="2"/><rect x="22" y="12" width="36" height="14" rx="8" fill="rgba(182,255,0,0.2)"/><path d="M30 35 H50 M30 45 H50 M30 55 H45" stroke="rgba(182,255,0,0.2)" stroke-width="1.5"/><text x="40" y="75" text-anchor="middle" font-size="8" fill="rgba(255,255,255,0.4)" font-family="sans-serif">TÉRMICO</text></svg>`,
+  diverso: `<svg viewBox="0 0 80 100" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="15" y="40" width="50" height="45" rx="4" fill="rgba(255,150,50,0.1)" stroke="rgba(255,150,50,0.35)" stroke-width="2"/><path d="M15 50 H65" stroke="rgba(255,150,50,0.3)" stroke-width="1.5"/><path d="M40 15 Q40 40 40 40" stroke="rgba(255,150,50,0.4)" stroke-width="2"/><path d="M25 15 Q40 8 55 15" stroke="rgba(255,150,50,0.4)" stroke-width="2" fill="none"/><text x="40" y="72" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)" font-family="sans-serif">PRODUTO</text></svg>`,
+  misto: `<svg viewBox="0 0 80 100" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="20" y="10" width="40" height="75" rx="6" fill="rgba(0,213,255,0.15)" stroke="rgba(0,213,255,0.4)" stroke-width="2"/><text x="40" y="58" text-anchor="middle" font-size="9" fill="rgba(255,255,255,0.4)" font-family="sans-serif">KIT</text></svg>`,
+  a_confirmar: `<svg viewBox="0 0 80 100" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="15" y="20" width="50" height="60" rx="4" fill="rgba(150,150,150,0.1)" stroke="rgba(150,150,150,0.3)" stroke-width="2"/><text x="40" y="55" text-anchor="middle" font-size="20" fill="rgba(255,255,255,0.2)" font-family="sans-serif">?</text></svg>`,
 };
 
 const GRAD: Record<string, string> = {
@@ -60,11 +66,12 @@ export function ProductCard({ produto }: { produto: CatalogProduct }) {
           />
         ) : (
           <div
-            className="flex items-center justify-center select-none transition-transform duration-300 ease-out group-hover:scale-110"
+            className="flex items-center justify-center w-full h-full transition-transform duration-300 ease-out group-hover:scale-110"
             aria-hidden="true"
-          >
-            <span className="text-5xl drop-shadow-lg">{EMOJI[produto.material] ?? "🥤"}</span>
-          </div>
+            dangerouslySetInnerHTML={{
+              __html: PLACEHOLDER_SVG[produto.material] ?? PLACEHOLDER_SVG.diverso
+            }}
+          />
         )}
 
         {/* Badges */}
