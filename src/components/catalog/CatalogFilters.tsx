@@ -5,11 +5,11 @@ import { useCallback } from "react";
 import { X } from "lucide-react";
 
 const categorias = [
-  { value: "", label: "Todas as categorias" },
-  { value: "acrilicos_aluminio_similares", label: "Acrílicos e Similares" },
+  { value: "",             label: "Todas as categorias" },
+  { value: "acrilicos",    label: "Acrílicos e Similares" },
   { value: "porcelana_vidro", label: "Porcelana e Vidro" },
-  { value: "itens_diversos", label: "Itens Diversos" },
-  { value: "termicos", label: "Térmicos" },
+  { value: "diverso",      label: "Itens Diversos" },
+  { value: "termicos",     label: "Térmicos" },
 ];
 
 const materiais = [

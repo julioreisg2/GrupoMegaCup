@@ -27,10 +27,10 @@ function filter(products: CatalogProduct[], p: Awaited<CatalogoPageProps["search
 }
 
 const CAT_LABELS: Record<string, string> = {
-  acrilicos_aluminio_similares: "Acrílicos e Similares",
+  acrilicos:     "Acrílicos e Similares",
   porcelana_vidro: "Porcelana e Vidro",
-  itens_diversos: "Itens Diversos",
-  termicos: "Térmicos",
+  diverso:       "Itens Diversos",
+  termicos:      "Térmicos",
 };
 
 export default async function CatalogoPage({ searchParams }: CatalogoPageProps) {
