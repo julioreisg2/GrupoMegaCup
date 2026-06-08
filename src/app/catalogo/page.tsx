@@ -13,32 +13,35 @@ export const metadata: Metadata = {
 };
 
 interface CatalogoPageProps {
-  searchParams: Promise<{ q?: string; categoria?: string; material?: string; destaque?: string; lancamento?: string }>;
+  searchParams: Promise<{ q?: string; tipo?: string; destaque?: string; lancamento?: string }>;
 }
 
 function filter(products: CatalogProduct[], p: Awaited<CatalogoPageProps["searchParams"]>): CatalogProduct[] {
   let r = products;
   if (p.q) { const q = p.q.toLowerCase(); r = r.filter((x) => x.nome.toLowerCase().includes(q) || x.subcategoria.toLowerCase().includes(q)); }
-  if (p.categoria) r = r.filter((x) => x.categoriaMacro === p.categoria);
-  if (p.material)  r = r.filter((x) => x.material === p.material);
+  if (p.tipo) r = r.filter((x) => (x as any).tipoProduct === p.tipo);
   if (p.destaque  === "true") r = r.filter((x) => x.destaque);
   if (p.lancamento === "true") r = r.filter((x) => x.lancamento);
   return r;
 }
 
-const CAT_LABELS: Record<string, string> = {
-  acrilicos:     "Acrílicos e Similares",
-  porcelana_vidro: "Porcelana e Vidro",
-  diverso:       "Itens Diversos",
-  termicos:      "Térmicos",
+const TIPO_LABELS: Record<string, string> = {
+  copo:    "🥤 Copos",
+  caneca:  "☕ Canecas",
+  taca:    "🍷 Taças",
+  garrafa: "🫗 Garrafas",
+  kit:     "🎁 Kits",
+  roupa:   "👕 Roupas e Vestuário",
+  bolsa:   "👜 Bolsas e Sacolas",
+  outros:  "📦 Outros Produtos",
 };
 
 export default async function CatalogoPage({ searchParams }: CatalogoPageProps) {
   const params   = await searchParams;
   const all      = getCatalog();
   const filtered = filter(all, params);
-  const hasFilters = !!(params.q || params.categoria || params.material || params.destaque || params.lancamento);
-  const catLabel = params.categoria ? CAT_LABELS[params.categoria] : undefined;
+  const hasFilters = !!(params.q || params.tipo || params.destaque || params.lancamento);
+  const tipoLabel = params.tipo ? TIPO_LABELS[params.tipo] : undefined;
 
   return (
     <div style={{ backgroundColor: "var(--bg)" }}>
@@ -48,11 +51,11 @@ export default async function CatalogoPage({ searchParams }: CatalogoPageProps) 
           <nav className="text-sm mb-2 flex gap-2 items-center" style={{ color: "var(--text-soft)" }}>
             <Link href="/" className="hover:text-[var(--lime)] transition-colors">Início</Link>
             <span>/</span>
-            <span style={{ color: catLabel ? "var(--text-muted)" : "var(--text)" }}>Catálogo</span>
-            {catLabel && (
+            <span style={{ color: tipoLabel ? "var(--text-muted)" : "var(--text)" }}>Catálogo</span>
+            {tipoLabel && (
               <>
                 <span>/</span>
-                <span style={{ color: "var(--cyan)" }}>{catLabel}</span>
+                <span style={{ color: "var(--cyan)" }}>{tipoLabel}</span>
               </>
             )}
           </nav>
@@ -60,7 +63,7 @@ export default async function CatalogoPage({ searchParams }: CatalogoPageProps) 
           <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4">
             <div>
               <h1 className="font-display font-black text-2xl sm:text-3xl" style={{ color: "var(--text)" }}>
-                {catLabel ?? "Catálogo Completo"}
+                {tipoLabel ?? "Catálogo Completo"}
               </h1>
               <p className="text-sm mt-1" style={{ color: "var(--text-soft)" }}>
                 <span style={{ color: "var(--cyan)", fontWeight: 700 }}>{filtered.length}</span>
@@ -69,7 +72,7 @@ export default async function CatalogoPage({ searchParams }: CatalogoPageProps) 
             </div>
 
             <form method="GET" action="/catalogo" className="flex gap-2 w-full sm:w-auto sm:min-w-[300px]">
-              {params.categoria && <input type="hidden" name="categoria" value={params.categoria} />}
+              {params.tipo && <input type="hidden" name="tipo" value={params.tipo} />}
               <div className="relative flex-1">
                 <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4" style={{ color: "var(--text-soft)" }} aria-hidden="true" />
                 <input

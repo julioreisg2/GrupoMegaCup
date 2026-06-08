@@ -4,24 +4,16 @@ import { useRouter, useSearchParams } from "next/navigation";
 import { useCallback } from "react";
 import { X } from "lucide-react";
 
-const categorias = [
-  { value: "",              label: "Todas as categorias" },
-  { value: "acrilicos",    label: "Acrílicos e Similares" },
-  { value: "porcelana_vidro", label: "Porcelana e Vidro" },
-  { value: "diverso",      label: "Itens Diversos" },
-  { value: "termicos",     label: "Térmicos" },
-];
-
 const tipos = [
-  { value: "",        label: "Todos os tipos" },
-  { value: "copo",    label: "Copos" },
-  { value: "caneca",  label: "Canecas" },
-  { value: "taca",    label: "Taças" },
-  { value: "garrafa", label: "Garrafas" },
-  { value: "kit",     label: "Kits" },
-  { value: "roupa",   label: "Roupas e Vestuário" },
-  { value: "bolsa",   label: "Bolsas e Sacolas" },
-  { value: "outros",  label: "Outros" },
+  { value: "",        label: "Todos os produtos" },
+  { value: "copo",    label: "🥤 Copos" },
+  { value: "caneca",  label: "☕ Canecas" },
+  { value: "taca",    label: "🍷 Taças" },
+  { value: "garrafa", label: "🫗 Garrafas" },
+  { value: "kit",     label: "🎁 Kits" },
+  { value: "roupa",   label: "👕 Roupas e Vestuário" },
+  { value: "bolsa",   label: "👜 Bolsas e Sacolas" },
+  { value: "outros",  label: "📦 Outros Produtos" },
 ];
 
 function FilterItem({ active, onClick, children }: { active: boolean; onClick: () => void; children: React.ReactNode }) {
@@ -55,8 +47,7 @@ export function CatalogFilters() {
     [router, params]
   );
 
-  const hasFilters = !!params.get("categoria") || !!params.get("tipo") || !!params.get("q");
-  const activeCategoria = params.get("categoria") ?? "";
+  const hasFilters = !!params.get("tipo") || !!params.get("q");
   const activeTipo = params.get("tipo") ?? "";
 
   return (
@@ -80,24 +71,10 @@ export function CatalogFilters() {
           )}
         </div>
 
-        {/* Categoria */}
-        <div className="mb-5">
-          <p className="text-[10px] font-bold uppercase tracking-widest mb-2" style={{ color: "var(--text-soft)" }}>
-            Categoria
-          </p>
-          <div className="flex flex-col gap-0.5">
-            {categorias.map((c) => (
-              <FilterItem key={c.value} active={activeCategoria === c.value} onClick={() => update("categoria", c.value)}>
-                {c.label}
-              </FilterItem>
-            ))}
-          </div>
-        </div>
-
         {/* Tipo de Produto */}
         <div className="mb-5">
           <p className="text-[10px] font-bold uppercase tracking-widest mb-2" style={{ color: "var(--text-soft)" }}>
-            Tipo de Produto
+            O que você busca?
           </p>
           <div className="flex flex-col gap-0.5">
             {tipos.map((t) => (
@@ -115,8 +92,8 @@ export function CatalogFilters() {
           </p>
           <div className="flex flex-col gap-0.5">
             {[
-              { key: "destaque", label: "Destaques" },
-              { key: "lancamento", label: "Lançamentos" },
+              { key: "destaque", label: "⭐ Destaques" },
+              { key: "lancamento", label: "🆕 Lançamentos" },
             ].map(({ key, label }) => (
               <FilterItem
                 key={key}
